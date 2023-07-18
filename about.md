@@ -3,6 +3,4 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+I am a 3rd year PhD student in Systems Engineering at Boston University. I am jointly supervised by Professor [Wenchao Li](https://sites.bu.edu/depend/people/) and Professor [Christos Cassandras](https://christosgcassandras.org/). I am currently affiliated with [Dependable Computing Lab](https://sites.bu.edu/depend/people/) and [CODES Lab](https://www.bu.edu/codes/).
