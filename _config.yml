@@ -1,7 +1,7 @@
 # Setup
 title: Personal Website
 description: A 3rd year Ph.D Student of Systems Engineering at Boston University 
-url: "https://sabbirahmad26.github.io/about" # the base hostname & protocol for your site
+url: "https://sabbirahmad26.github.io/about/" # the base hostname & protocol for your site
 avatar: /Photo.png
 paginate: 3
 permalink: pretty
