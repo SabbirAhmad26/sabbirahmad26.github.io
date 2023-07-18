@@ -8,7 +8,7 @@ I am a 3rd year PhD student in Systems Engineering at Boston University. I am jo
 title: education
   <div class="item border-bottom">
      <ul>
-        <h3 id="Education" > <br> Education</h3>
+        <h1 id="Education" > <br> Education</h1>
         <li> 
            2017.9 - 2021.8, Boston University <br>
            Ph.D in Systems Engineering with honors
