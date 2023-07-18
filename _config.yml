@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Personal Website
+description: A 3rd year PhD Student of Systems Engineering at Boston University 
 url: https://vszhub.github.io
 avatar: /Photo.png
 paginate: 5
@@ -28,15 +28,12 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
+
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: H M Sabbir Ahmad
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    -  https://github.com/SabbirAhmad26
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +51,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: H M Sabbir Ahmad
+  url: https://github.com/SabbirAhmad26
+  email: sabbir92@bu.edu
