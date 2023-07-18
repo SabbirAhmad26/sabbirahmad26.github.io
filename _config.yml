@@ -2,8 +2,6 @@
 title: Personal Website
 description: A 3rd year Ph.D Student of Systems Engineering at Boston University 
 url: "https://sabbirahmad26.github.io/about/" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
 avatar: /Photo.png
 paginate: 3
 permalink: pretty
@@ -16,6 +14,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Optimize Jekyll
 exclude:
