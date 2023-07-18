@@ -15,9 +15,11 @@ title: "Publications"
   <br> HMS Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
 * **Cyber-Attack Detection for a Crude Oil Distillation Column**.
   <br> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin
-  <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346.** [<a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13" target="top">Book link </a>]
+  <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346.** [<a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13" target="top">Book link</a>]
 * **Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator**.
   <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin
-  <br> **Renewable Power for Sustainable Growth pp 143–154.** [<a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14" target="top">Book link </a>]
-  
+  <br> **Renewable Power for Sustainable Growth pp 143–154.** [<a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14" target="top">Book link</a>]
+  * **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
+  * <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi,
+  * <br> **2020 International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176** [<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>].
   
