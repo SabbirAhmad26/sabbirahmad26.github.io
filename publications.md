@@ -13,7 +13,10 @@ title: "Publications"
 # Journal articles
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
   <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini
-  <br> **MDPI Sensors, Vol. 8, Issue 8**[<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>]
+  <br> **MDPI Sensors, Vol. 8, Issue 8, 2020**[<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>]
+* **A modular IoT platform for real-time indoor air quality monitoring,**
+  <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri
+  <br> **MDPI Sensors, Vol. 18, Issue 2, 2018**[<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>] 
 
 # Conference papers
 * **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://arxiv.org/pdf/2305.16818.pdf" target="_blank">PDF</a>]
