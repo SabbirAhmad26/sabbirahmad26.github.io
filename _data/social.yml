@@ -9,7 +9,7 @@
   icon: fab fa-researchgate
 - title: Google Scholar
   url: https://scholar.google.com/citations?user=q5naPLUAAAAJ&hl=en
-  icon: fab fa-scholar
+  icon: fab fa-googlescholar
 - title: GitHub
   url: https://github.com/SabbirAhmad26
   icon: fab fa-github
