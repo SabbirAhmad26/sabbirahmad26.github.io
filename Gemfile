@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 gemspec
 
-gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-sitemap'
+gem 'jekyll-compose', group: [:jekyll_plugins]
