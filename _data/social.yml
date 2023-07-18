@@ -3,10 +3,13 @@
   icon: fas fa-envelope
 - title: Linkedin
   url: https://www.linkedin.com/in/h-m-sabbir-ahmad-a992b15a/
-  icon: fab fa-linkedin  
+  icon: fab fa-linkedin
+- title: Researchgate
+  url: https://www.researchgate.net/profile/H-M-Sabbir-Ahmad?ev=hdr_xprf
+  icon: fab fa-researchgate
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=q5naPLUAAAAJ&hl=en
+  icon: fab fa-scholar
 - title: GitHub
   url: https://github.com/SabbirAhmad26
   icon: fab fa-github
-- title: Researchgate
-  url: https://github.com/SabbirAhmad26
-  icon: fab fa-researchgate
