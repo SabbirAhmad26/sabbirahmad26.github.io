@@ -11,7 +11,7 @@ title: "Publications"
   <br> **Renewable Power for Sustainable Growth pp 143–154.** [<a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14" target="top">Book link</a>]
   
 # Journal articles
-* *** **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
+* **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
   <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini
   <br> **MDPI Sensors, Vol. 8, Issue 8**[<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>]
 
