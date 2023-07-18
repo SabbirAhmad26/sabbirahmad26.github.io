@@ -3,13 +3,13 @@ layout: page
 title: "Publications"
 ---
 
-* **Optimal Control of Connected Automated Vehicles with Event-Triggered Control Barrier Functions: a Test Bed for Safe Optimal Merging** [<a href="https://arxiv.org/pdf/2306.01871.pdf" target="_blank">PDF</a>]
-  <br> E Sabouni, HM Ahmad, W Xiao, CG Cassandras, W Li
-  <br> Accepted as a paper at **7th IEEE Conference on Control Technology and Applications (CCTA) 2023**.
 * **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://arxiv.org/pdf/2305.16818.pdf" target="_blank">PDF</a>]
  <br> HM Ahmad, Ehsan Sabouni, Wei Xiao, Christos G Cassandras, Wenchao Li
 * **Merging control in mixed traffic with safety guarantees: a safe sequencing policy with optimal motion control** [<a href="https://arxiv.org/pdf/2305.16725.pdf" target="_blank">PDF</a>]
 <br> Ehsan Sabouni, HM Ahmad, Christos G Cassandras, Wenchao Li
   <br> Accepted as a paper at **26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023**.
+* **Optimal Control of Connected Automated Vehicles with Event-Triggered Control Barrier Functions: a Test Bed for Safe Optimal Merging** [<a href="https://arxiv.org/pdf/2306.01871.pdf" target="_blank">PDF</a>]
+  <br> E Sabouni, HM Ahmad, W Xiao, CG Cassandras, W Li
+  <br> Accepted as a paper at **7th IEEE Conference on Control Technology and Applications (CCTA) 2023**.
 * **Evaluations of Cyberattacks on Cooperative Control of Connected and Autonomous Vehicles at Bottleneck Points** [<a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23082-paper.pdf" target="_blank">PDF</a>]
   <br> HMS Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
