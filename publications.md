@@ -13,3 +13,11 @@ title: "Publications"
   <br> Accepted as a paper at **7th IEEE Conference on Control Technology and Applications (CCTA) 2023**.
 * **Evaluations of Cyberattacks on Cooperative Control of Connected and Autonomous Vehicles at Bottleneck Points** [<a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23082-paper.pdf" target="_blank">PDF</a>]
   <br> HMS Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
+* **Cyber-Attack Detection for a Crude Oil Distillation Column**.
+  <br> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin
+  <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346.** [https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13]
+* **Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator**.
+  <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin
+  <br> **Renewable Power for Sustainable Growth pp 143–154.** [[https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13](https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14)https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14]
+  
+  
