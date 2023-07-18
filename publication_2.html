@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="google-site-verification" content="kjkDQomnpCJSsdVIPI4tB_VjA3mgA8qJt3k06V6FgMk" />      
+      <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+      <title>Wei Xiao</title>
+      <!-- Bootstrap -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous"-->
+      <link href="css/custom.css" rel="stylesheet">
+
+      <style>
+        div.scroll {
+	  margin:4px, 4px;
+	  padding:4px;
+	  background-color: white;
+	  width: 900px;
+	  height: 110px;
+	  overflow-x: hidden;
+	  overflow-y: auto;
+	  text-align:justify;
+        }
+
+        navstk {
+	  float: right;
+	  background-color: #333;
+	  padding: 14px 16px;
+	  text-align: center;
+	  width: 100%;
+	  position: sticky;
+	  top: 0px;
+	}
+
+	navstk a {
+	  float: center;
+	  color: #f2f2f2;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	  font-size: 17px;
+	}
+
+	navstk a:hover {
+	  background-color: #ddd;
+	  color: black;
+	}
+	navstk a:focus {
+	  background-color: #04AA6D;
+	  color: white;
+	}
+      </style>
+   </head>
+   
+   <style>
+      hr {
+      margin-top:40px;
+      margin-bottom:40px;
+      }
+   </style>
+   <script type="text/javascript">
+          function toggle_visibility(id) {
+             var e = document.getElementById(id);
+             if(e.style.display == 'block')
+                e.style.display = 'none';
+             else
+                e.style.display = 'block';
+          }
+   </script>
+   
+   
+<!-- main body -->
+   <body>
+      <navstk>
+        <a class="active" href="#">Home</a>
+      </navstk>
+
+      <hr>
+         <section class="hero">
+         <div class="hero-body">
+             <div class="container">
+               <h3 class="title is-3">Recent News</h3>
+               <!--div class="content"-->
+	       <div class="scroll">
+		  <ul>
+
+	          <li> [07/2023] Three papers are accepted in CDC 2023.  </li>
+	          <li> [07/2023] One paper is accepted in ITSC 2023.  </li>
+                  <li> [06/2023] Three papers (one conference, two journals) are accepted to present at IROS 2023.  </li>
+	          <li> [05/2023] One paper is accepted in CCTA 2023, and is selected as the best student paper award finalist (as advisor and co-author).  </li>
+		  <li> [04/2023] Our invariance paper is accepted in <font color="red">ICML 2023</font>.  </li>
+	          <li> [03/2023] One paper about learning stability attention is accepted in L4DC 2023.  </li>
+	          <li> [03/2023] One paper about learning feasibility constraints is accepted in ECC 2023.  </li>
+		  <li> [02/2023] Our BarrierNet paper is accepted in <font color="red">IEEE Transactions on Robotics</font>.  </li>
+		  <li> [02/2023] One paper about cyber-attacks in transportation systems is accepted in VehicleSec 2023.  </li>
+	          <li> [01/2023] One paper about risk metric evaluation is accepted in ICRA 2023.  </li>
+	          <li> [01/2023] One paper regarding game theoretic planning is accepted in RAL.  </li>
+	          <li> [12/2022] Our BarrierNet paper is conditionally accepted in IEEE Transactions on Robotics.  </li>
+		  <li> [10/2022] Our paper using optimal control for CAVs in roundabouts is accepted in T-ITS.  </li>
+		  <li> [08/2022] Our TAC paper regarding safety guarantees under unknown dynamics is now <a rel='nofollow' target='_blank' href='https://ieeexplore.ieee.org/document/9868125'> available</a>.  </li>
+		  
+		  </ul>
+               </div>
+             </div>
+         </div>
+      <hr>
+            
+<!-- Book. -->     
+      <div class="item border-bottom">
+         <ul>
+            <h3>Book</h3>
+            <li> 
+               Wei Xiao, Christos Cassandras, and Calin Belta, Safe Autonomy with Control Barrier Functions: Theory and Applications, Springer, 2023, ISBN: 978-3-031-27576-0, <a rel='nofollow' target='_blank' href='https://link.springer.com/book/10.1007/978-3-031-27576-0'> link</a>       
+            </li>            
+         </ul>
+      </div>
+      <hr>
+            
+<!-- Journal papers. -->
+      <div class="item border-bottom">
+         <ul>
+         <h3 id="Journal"> <br> Selected Journal Papers </h3>
+         <div class="container">
+            <table style='border-width:1px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
+                  <tbody>
+                     <tr>
+                        <td style='width:300px;height:150px'> <a imageanchor='1' href='/assets/Photos/event_TAC.gif'><img width='200' src='paper_figs/event_TAC.gif' height='140' border='0'  style='border-radius: 5px'/></a></td>
+                        <td style='width:1200px;height:89px;padding-left: 10px;'>
+                           <b>Event-Triggered Control for Safety-Critical Systems With Unknown Dynamics
+                           </b><br/> Wei Xiao, Calin Belta, and Christos G. Cassandras <br/>IEEE Transactions on Automatic Control (<b>TAC</b>), 2022 <br/> <a target='_blank' href='https://arxiv.org/abs/2103.15874'>arXiv</a>, <a href="javascript:toggle_visibility('xiao2022event')">Bibtex</a>
+                           <pre id="xiao2022event" xml:space="preserve" style="display: none; font-size: 12px">
+                          @article{xiao2022event,
+                             title={Event-Triggered Control for Safety-Critical Systems With Unknown Dynamics},
+                             author={Xiao, Wei and Belta, Calin and Cassandras, Christos G},
+                             journal={IEEE Transactions on Automatic Control},
+                             year={2022},
+                             publisher={IEEE}
+                           }
+                           </pre>
+                        </td>
+                     </tr>
+                  </tbody>
+            </table> 
+         </ul>
+         </div>            
+      </div>
+      <hr>
+            
+            
+<!-- Conference papers. -->
+      <div class="item border-bottom">
+         <ul>
+         <h3 id="Conference"> <br> Selected Conference Papers</h3>
+         <div class="container">
+	    <table style='border-width:1px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
+                  <tbody>
+                     <tr>
+                        <td style='width:300px;height:150px'> <a imageanchor='1' href='/assets/Photos/cyber.png'><img width='200' src='paper_figs/cyber.png' height='140' border='0'  style='border-radius: 5px'/></a></td>
+                        <td style='width:1200px;height:89px;padding-left: 10px;'>
+                           <b>Evaluations of Cyberattacks on Cooperative Control of Connected and Autonomous Vehicles at Bottleneck Points
+                           </b><br/> HM Sabbir Ahmad, Ehsan Sabouni, Wei Xiao, Christos G Cassandras, and Wenchao Li <br/>VehicleSec, 2023 <br/> <a target='_blank' href='https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23082-paper.pdf'>paper</a>, <a href="javascript:toggle_visibility('ahmadevaluations')">Bibtex</a>
+                           <pre id="ahmadevaluations" xml:space="preserve" style="display: none; font-size: 12px">
+                           @INPROCEEDINGS{ahmadevaluations,
+  				title={Evaluations of Cyberattacks on Cooperative Control of Connected and Autonomous Vehicles at Bottleneck Points},
+  				author={Ahmad, HM Sabbir and Sabouni, Ehsan and Xiao, Wei and Cassandras, Christos G and Li, Wenchao}
+				booktitle={VehicleSec 2023},
+				year = {2023}
+				}
+                           </pre>
+                        </td>
+                     </tr>
+                  </tbody>
+            </table>
+         </ul>
+         </div>            
+      </div>
+      <hr>
+
+
+<!-- honors. -->
+      <div class="item border-bottom">
+         <ul>
+            <h3 id="Honors" > <br> Selected Honors</h3>
+	    <li> 
+	       IEEE CCTA 2023, Best Student Paper Award Finalist (as advisor and co-author)
+	    </li>
+            <li> 
+               Boston University Outstanding Dissertation Award, 5/2022
+            </li>
+            <li> 
+               ACM/IEEE ICCPS 2021, Best Paper Award Finalist, 5/2021
+            </li>
+            <li> 
+               IEEE CDC 2020, Outstanding Student Paper Award, 12/2020
+            </li>
+	    <li> 
+               IEEE CDC 2020, Roberto Tempo Best CDC Paper Award Nominee, 12/2020
+            </li>
+            <li> 
+               Boston University PhD Distinguished Fellowship Award, 9/2017
+            </li>
+            <li> 
+               iQIYI Young Staff Award, 1/2017
+            </li>
+            <li> 
+               UCAS National Graduate Scholarship, 5/2015
+            </li>
+            <li> 
+               Beijing Outstanding Undergraduate Award, 6/2013
+            </li>
+         </ul>
+      </div>
+      <hr>
+      <hr>
+ </body>
+   <br>
+   <br>  
+</html>
