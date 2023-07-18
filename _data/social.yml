@@ -1,9 +1,9 @@
 - title: Email
   url: mailto://sabbir92@bu.edu
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter  
+- title: Linkedin
+  url: https://www.linkedin.com/in/h-m-sabbir-ahmad-a992b15a/
+  icon: fab fa-linkedin  
 - title: GitHub
   url: https://github.com/SabbirAhmad26
   icon: fab fa-github
