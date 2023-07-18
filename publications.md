@@ -29,4 +29,7 @@ title: "Publications"
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
   <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi,
   <br> **2020 International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176** [<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>].
+* **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column**
+<br> H M Sabbir Ahmad, Nader Meskin
+<br> **2020 IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)** <a href="https://ieeexplore.ieee.org/xpl/conhome/9081868/proceeding" target="_blank">PDF</a>]  
   
