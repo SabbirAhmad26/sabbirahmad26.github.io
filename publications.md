@@ -25,9 +25,6 @@ title: "Publications"
 * **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter**
 <br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin
 <br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>]
-* **Real-time indoor air quality monitoring through wireless sensor network**
-<br> Mohieddine Benammar, Abderrazak Abdaoui, H M Sabbir Ahmad, Farid Touati, Abdullah Kadri
-<br> **International Journal of Internet of Things and Web Services, 2017** [<a href="http://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf" target="_blank">PDF</a>]
   
 ## Journal articles
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
