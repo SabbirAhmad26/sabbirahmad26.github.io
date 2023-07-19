@@ -22,7 +22,7 @@ title: "Publications"
 * **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column** [<a href="https://ieeexplore.ieee.org/xpl/conhome/9081868/proceeding" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Nader Meskin,
 <br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)**. 
-* **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter**[<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
+* **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin,
 <br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)**. 
   
