@@ -16,9 +16,9 @@ title: "Publications"
 * **Evaluations of Cyberattacks on Cooperative Control of Connected and Autonomous Vehicles at Bottleneck Points** [<a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23082-paper.pdf" target="_blank">PDF</a>]
   <br> H M Sabbir Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
   <br> **Network and Distributed System Security (NDSS) Symposium 2023**
-* **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
+* **Energy Efficient Real time Outdoor Air Quality Monitoring System,**[<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>]
   <br> Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi,
-  <br> **International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176** [<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>].
+  <br> **International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176**.
 * **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column**
 <br> H M Sabbir Ahmad, Nader Meskin
 <br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)** [<a href="https://ieeexplore.ieee.org/xpl/conhome/9081868/proceeding" target="_blank">PDF</a>]
