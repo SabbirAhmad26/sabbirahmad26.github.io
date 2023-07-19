@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 ---
 
-# Conference papers
+## Conference papers
 * **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://arxiv.org/pdf/2305.16818.pdf" target="_blank">PDF</a>]
  <br> HM Ahmad, Ehsan Sabouni, Wei Xiao, Christos G Cassandras, Wenchao Li
  <br> Accepted as a paper at **26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023**.
@@ -29,7 +29,7 @@ title: "Publications"
 <br> Mohieddine Benammar, Abderrazak Abdaoui, H M Sabbir Ahmad, Farid Touati, Abdullah Kadri
 <br> **2018 IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)** [<a href="http://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf" target="_blank">PDF</a>]
   
-# Journal articles
+## Journal articles
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
   <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini
   <br> **MDPI Sensors, Vol. 8, Issue 8, 2020**[<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>]
@@ -37,7 +37,7 @@ title: "Publications"
   <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri
   <br> **MDPI Sensors, Vol. 18, Issue 2, 2018**[<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>]
 
-# Book chapters
+## Book chapters
 * **Cyber-Attack Detection for a Crude Oil Distillation Column**.
   <br> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin
   <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346.** [<a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13" target="top">Book link</a>]
