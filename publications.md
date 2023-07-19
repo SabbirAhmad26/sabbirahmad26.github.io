@@ -19,28 +19,28 @@ title: "Publications"
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System,**[<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>]
   <br> Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi,
   <br> **International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176**.
-* **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column**
-<br> H M Sabbir Ahmad, Nader Meskin
-<br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)** [<a href="https://ieeexplore.ieee.org/xpl/conhome/9081868/proceeding" target="_blank">PDF</a>]
-* **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter**
-<br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin
-<br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>]
+* **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column** [<a href="https://ieeexplore.ieee.org/xpl/conhome/9081868/proceeding" target="_blank">PDF</a>],
+<br> H M Sabbir Ahmad, Nader Meskin,
+<br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)**. 
+* **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter**[<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
+<br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin,
+<br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)**. 
   
 ## Journal articles
-* **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
-  <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini
-  <br> **MDPI Sensors, Vol. 8, Issue 8, 2020**[<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>]
-* **A modular IoT platform for real-time indoor air quality monitoring,**
-  <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri
-  <br> **MDPI Sensors, Vol. 18, Issue 2, 2018**[<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>]
+* **Energy Efficient Real time Outdoor Air Quality Monitoring System** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
+  <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini,
+  <br> **MDPI Sensors, Vol. 8, Issue 8, 2020**.
+* **A modular IoT platform for real-time indoor air quality monitoring** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
+  <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri,
+  <br> **MDPI Sensors, Vol. 18, Issue 2, 2018**.
 
 ## Book chapters
-* **Cyber-Attack Detection for a Crude Oil Distillation Column**.
-  <br> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin
-  <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346.** [<a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13" target="top">Book link</a>]
-* **Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator**.
-  <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin
-  <br> **Renewable Power for Sustainable Growth pp 143–154.** [<a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14" target="top">Book link</a>]
-  
+* **Cyber-Attack Detection for a Crude Oil Distillation Column**[<a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13" target="top">Book link</a>],
+  <br> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin,
+  <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346.** 
+* **Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator**[<a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14" target="top">Book link</a>]
+  ,
+  <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin,
+  <br> **Renewable Power for Sustainable Growth pp 143–154**. 
    
 
