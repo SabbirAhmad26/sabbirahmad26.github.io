@@ -18,13 +18,13 @@ title: "Publications"
   <br> **Network and Distributed System Security (NDSS) Symposium 2023**
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System,**
   <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi,
-  <br> **2020 International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176** [<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>].
+  <br> **International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176** [<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>].
 * **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column**
 <br> H M Sabbir Ahmad, Nader Meskin
-<br> **2020 IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)** [<a href="https://ieeexplore.ieee.org/xpl/conhome/9081868/proceeding" target="_blank">PDF</a>]
+<br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)** [<a href="https://ieeexplore.ieee.org/xpl/conhome/9081868/proceeding" target="_blank">PDF</a>]
 * **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter**
 <br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin
-<br> **2018 IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>]
+<br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>]
 * **Real-time indoor air quality monitoring through wireless sensor network**
 <br> Mohieddine Benammar, Abderrazak Abdaoui, H M Sabbir Ahmad, Farid Touati, Abdullah Kadri
 <br> **International Journal of Internet of Things and Web Services, 2017** [<a href="http://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf" target="_blank">PDF</a>]
