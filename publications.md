@@ -24,10 +24,7 @@ title: "Publications"
 <br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)**. 
 * **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin,
-<br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)**.
-* **Energy Efficient Real time Outdoor Air Quality Monitoring System** [<a href="https://ieeexplore.ieee.org/document/9148229" target="top">PDF</a>],
-  <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini,
-  <br> **2020 International Wireless Communications and Mobile Computing Conference, (IWCMC)**. 
+<br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)**. 
   
 ## Journal articles
 * **A Smart Rig for Calibration of Gas Sensor Nodes** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
@@ -42,6 +39,10 @@ title: "Publications"
   <br> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin,
   <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346.** 
 * **Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator** [<a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14" target="top">Book link</a>],
+  ,
+  <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin,
+  <br> **Renewable Power for Sustainable Growth pp 143–154**.
+* **Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network** [<a href="https://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf" target="top">Book link</a>],
   ,
   <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin,
   <br> **Renewable Power for Sustainable Growth pp 143–154**. 
