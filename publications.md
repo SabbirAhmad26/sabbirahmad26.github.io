@@ -19,7 +19,7 @@ title: "Publications"
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System** [<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>],
   <br> Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi,
   <br> **International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176**.
-* **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column** [<a href="https://ieeexplore.ieee.org/xpl/conhome/9081868/proceeding" target="_blank">PDF</a>],
+* **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column** [<a href="https://ieeexplore.ieee.org/document/9089577" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Nader Meskin,
 <br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)**. 
 * **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
