@@ -37,14 +37,14 @@ title: "Publications"
 ## Book chapters
 * **Cyber-Attack Detection for a Crude Oil Distillation Column** [<a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13" target="top">Book link</a>],
   <br> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin,
-  <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346.** 
+  <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346, 2022.** 
 * **Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator** [<a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14" target="top">Book link</a>],
   ,
   <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin,
-  <br> **Renewable Power for Sustainable Growth pp 143–154**.
+  <br> **Renewable Power for Sustainable Growth pp 143–154, 2021**.
 * **Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network** [<a href="https://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf" target="top">Book link</a>],
   ,
   <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin,
-  <br> **Renewable Power for Sustainable Growth pp 143–154**. 
+  <br> **International Journal of Internet of Things and Web Services, Vol. 2, pp. 7-13, 2017**. 
    
 
