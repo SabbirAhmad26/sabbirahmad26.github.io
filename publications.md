@@ -30,7 +30,7 @@ title: "Publications"
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
   <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini,
   <br> **MDPI Sensors, Vol. 8, Issue 8, 2020**.
-* **A modular IoT platform for real-time indoor air quality monitoring** [<a href="  https://www.mdpi.com/1424-8220/20/8/2341"target="top">PDF</a>],
+* **A modular IoT platform for real-time indoor air quality monitoring** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
   <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri,
   <br> **MDPI Sensors, Vol. 18, Issue 2, 2018**.
 * **A modular IoT platform for real-time indoor air quality monitoring** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
