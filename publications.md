@@ -24,7 +24,10 @@ title: "Publications"
 <br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)**. 
 * **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin,
-<br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)**. 
+<br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)**.
+* **Energy Efficient Real time Outdoor Air Quality Monitoring System** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
+  <br> Abderrazak Abdaoui, H.M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini,
+  <br> **2020 International Wireless Communications and Mobile Computing Conference, (IWCMC)**. 
   
 ## Journal articles
 * **A Smart Rig for Calibration of Gas Sensor Nodes** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
