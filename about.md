@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a 3rd year PhD student in Systems Engineering at Boston University. I am supervised by Professor [Wenchao Li](https://sites.bu.edu/depend/people/) and co-supervised by Professor [Christos Cassandras](https://christosgcassandras.org/). I am currently affiliated with [Dependable Computing Lab](https://sites.bu.edu/depend/) and [CODES Lab](https://www.bu.edu/codes/). My research interests and expertise lies in the area of AI, CPS Security, Control, Multi-Agent Control, Intelligent Transportation Systems, and Autonomous Driving.
+I am a 3rd year PhD student in Systems Engineering at Boston University. I am supervised by Professor [Wenchao Li](https://sites.bu.edu/depend/people/) and co-supervised by Professor [Christos Cassandras](https://christosgcassandras.org/). I am currently affiliated with [Dependable Computing Lab](https://sites.bu.edu/depend/) and [CODES Lab](https://www.bu.edu/codes/). My research interests and expertise lies in the area of AI, Reinforcement Learning, CPS Security, Control, Multi-Agent Control, Intelligent Transportation Systems, and Autonomous Driving.
 
 # Education
 * 09/2021 , Boston University
