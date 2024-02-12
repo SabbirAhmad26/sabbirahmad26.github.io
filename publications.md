@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 ## Conference papers
-* **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions**
+* **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://arxiv.org/pdf/2401.02306.pdf" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Ehsan Sabouni, Akua Dickson, Wei Xiao, Christos G Cassandras, Wenchao Li
 <br> **(NDSS) VehicleSec Symposium 2024**
 * **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://arxiv.org/pdf/2305.16818.pdf" target="_blank">PDF</a>],
