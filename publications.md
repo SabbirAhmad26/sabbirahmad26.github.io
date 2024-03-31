@@ -7,10 +7,10 @@ title: "Publications"
 * **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://arxiv.org/pdf/2401.02306.pdf" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Ehsan Sabouni, Akua Dickson, Wei Xiao, Christos G Cassandras, Wenchao Li
 <br> Accepted as a paper at **(NDSS) VehicleSec Symposium 2024**
-* **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://arxiv.org/pdf/2305.16818.pdf" target="_blank">PDF</a>],
+* **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10421858" target="_blank">PDF</a>],
  <br> H M Sabbir Ahmad, Ehsan Sabouni, Wei Xiao, Christos G Cassandras, Wenchao Li
  <br> Accepted as a paper at **26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023**.
-* **Merging control in mixed traffic with safety guarantees: a safe sequencing policy with optimal motion control** [<a href="https://arxiv.org/pdf/2305.16725.pdf" target="_blank">PDF</a>],
+* **Merging control in mixed traffic with safety guarantees: a safe sequencing policy with optimal motion control** [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10422265" target="_blank">PDF</a>],
 <br> Ehsan Sabouni, H M Sabbir Ahmad, Christos G Cassandras, Wenchao Li
   <br> Accepted as a paper at **26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023**.
 * **Optimal Control of Connected Automated Vehicles with Event-Triggered Control Barrier Functions: a Test Bed for Safe Optimal Merging** [<a href="https://ieeexplore.ieee.org/abstract/document/10253379" target="_blank">PDF</a>],
