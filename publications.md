@@ -4,9 +4,12 @@ title: "Publications"
 ---
 
 ## Conference papers
+* **Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems**[<a href="https://arxiv.org/abs/2403.17338">]
+<br> Ehsan Sabouni, H M Sabbir Ahmad, Vittorio Giammarino, Christos G. Cassandras, Ioannis Ch. Paschalidis, Wenchao Li
+<br> Accepted as a paper at **CDC 2024**
 * **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-37-paper.pdf" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Ehsan Sabouni, Akua Dickson, Wei Xiao, Christos G Cassandras, Wenchao Li
-<br> Accepted as a paper at **(NDSS) VehicleSec Symposium 2024**
+**(NDSS) VehicleSec Symposium 2024**
 * **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10421858" target="_blank">PDF</a>],
  <br> H M Sabbir Ahmad, Ehsan Sabouni, Wei Xiao, Christos G Cassandras, Wenchao Li
  <br> Accepted as a paper at **26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023**.
