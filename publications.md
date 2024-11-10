@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 ## Conference papers
-* **Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems**[<a href="https://arxiv.org/abs/2403.17338">target="_blank">PDF</a>]
+* **Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems**[<a href="https://arxiv.org/abs/2403.17338" target="_blank">PDF</a>]
 <br> Ehsan Sabouni, H M Sabbir Ahmad, Vittorio Giammarino, Christos G. Cassandras, Ioannis Ch. Paschalidis, Wenchao Li
 <br> Accepted as a paper at **CDC 2024**
 * **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-37-paper.pdf" target="_blank">PDF</a>],
