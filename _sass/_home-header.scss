@@ -1,17 +1,9 @@
 // File: _sass/_home-header.scss
 
 /* Styles for the About section */
-/* Override container width for full-width content */
-.hero .container {
-  max-width: 100%; /* Override any fixed width */
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.hero { 
-  width: 80%; 
-  margin: 0 auto; // Center the container horizontally
-  font-size: 16px; // Set the desired font size
+.hero .container.is-fluid {
+  padding-left: 20px;  // Adjust the left padding as needed
+  padding-right: 20px; // Adjust the right padding as needed
 }
 
 .hero .title {
@@ -20,5 +12,5 @@
 
 .hero .scroll {
   margin-top: 10px; // Adjust the top margin for the scroll section
-  font-size: 14px; // Set the font size for the content within the scroll section
+  font-size: 14px;  // Set the font size for the content within the scroll section
 }
