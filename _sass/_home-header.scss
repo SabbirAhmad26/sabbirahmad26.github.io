@@ -27,8 +27,8 @@
   margin-bottom: 8px;    /* Space between items */
 }
 
-/* Content styling for "Recent News" section */
-.hero-body .scroll ul {
+/* Content styling for "Recent News" section with increased specificity */
+.hero-body .container.is-fluid .scroll ul {
   font-size: 10px;       /* Adjust font size for "Recent News" content */
   line-height: 1.6;
   color: #555;
@@ -37,16 +37,7 @@
   list-style-type: none;
 }
 
-.hero-body .scroll ul li {
+.hero-body .container.is-fluid .scroll ul li {
   margin-bottom: 8px;    /* Space between items */
 }
 
-/* Link styling */
-.scroll a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-.scroll a:hover {
-  text-decoration: underline;
-}
