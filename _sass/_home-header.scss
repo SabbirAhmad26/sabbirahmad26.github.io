@@ -1,41 +1,52 @@
-// File: _sass/_home-header.scss
-
-/* Styles for the About section */
-.hero .container.is-fluid {
-  padding-left: 1px;  // Adjust the left padding as needed
-  padding-right: 1px; // Adjust the right padding as needed
+/* General container styling for "About" and "Recent News" sections */
+.container.is-fluid {
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 /* Title styling for section headers like "About" and "Recent News" */
-.hero .title.is-3 {
-  font-size: 16px;       /* Adjust font size of the heading */
-  font-weight: bold;     /* Set font weight */
-  color: #333;           /* Choose color */
-  margin-bottom: 15px;   /* Space below heading */
+.title.is-3 {
+  font-size: 24px;       /* Set font size for section headings */
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
   text-align: left;
 }
 
-/* Content font size and spacing for "About" and "Recent News" lists */
+/* Content styling for "About" section */
 .hero .scroll ul {
-  font-size: 16px;       /* Set font size for the content */
-  line-height: 1.6;      /* Adjust line spacing */
-  color: #555;           /* Font color */
-  margin: 0;             /* Remove default margin */
-  padding: 0;            /* Remove default padding */
-  list-style-type: none; /* Remove bullets */
+  font-size: 16px;       /* Adjust font size for "About" content */
+  line-height: 1.6;
+  color: #555;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
 }
 
 .hero .scroll ul li {
-  margin-bottom: 1px;    /* Add space between list items */
+  margin-bottom: 8px;    /* Space between items */
 }
 
-/* Link styling within the content */
-.hero .scroll a {
-  color: #007bff;        /* Link color */
-  text-decoration: none; /* Remove underline */
+/* Content styling for "Recent News" section */
+.hero-body .scroll ul {
+  font-size: 16px;       /* Adjust font size for "Recent News" content */
+  line-height: 1.6;
+  color: #555;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
 }
 
-.hero .scroll a:hover {
-  text-decoration: underline; /* Underline on hover */
+.hero-body .scroll ul li {
+  margin-bottom: 8px;    /* Space between items */
 }
 
+/* Link styling */
+.scroll a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.scroll a:hover {
+  text-decoration: underline;
+}
