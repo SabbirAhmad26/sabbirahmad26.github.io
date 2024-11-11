@@ -39,6 +39,34 @@
   text-align: justify;    /* Align text to both margins */
 }
 
+/* Styling for the Publications section */
+.publication-links, .publication-title, .publication-details {
+  font-size: 12px;       /* Smaller font size for publication content */
+  line-height: 1.4;      /* Adjust line height for readability */
+}
+
+.publication-title {
+  font-weight: bold;
+  color: #000000;           /* Darker color for readability */
+}
+
+.publication-links a {
+  font-size: 12px;       /* Smaller font size for links */
+  color: #007bff;
+  text-decoration: none;
+}
+
+.publication-links a:hover {
+  text-decoration: underline;
+}
+
+.publication-details p {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;       /* Smaller font size for paragraph text */
+}
+
+
 .hero-body .container.is-fluid .scroll ul li {
   margin-bottom: 8px;   /* Reduced space between paragraphs (list items) */
 }
