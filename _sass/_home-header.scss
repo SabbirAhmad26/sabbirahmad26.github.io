@@ -6,41 +6,36 @@
   padding-right: 1px; // Adjust the right padding as needed
 }
 
-.hero .title {
-  font-size: 24px; // Set the font size for the "About" heading
+/* Title styling for section headers like "About" and "Recent News" */
+.hero .title.is-3 {
+  font-size: 10px;       /* Adjust font size of the heading */
+  font-weight: bold;     /* Set font weight */
+  color: #333;           /* Choose color */
+  margin-bottom: 15px;   /* Space below heading */
+  text-align: left;
 }
 
-.hero .scroll {
-  margin-top: 10px; // Adjust the top margin for the scroll section
-  font-size: 14px;  // Set the font size for the content within the scroll section
+/* Content font size and spacing for "About" and "Recent News" lists */
+.hero .scroll ul {
+  font-size: 10px;       /* Set font size for the content */
+  line-height: 1.6;      /* Adjust line spacing */
+  color: #555;           /* Font color */
+  margin: 0;             /* Remove default margin */
+  padding: 0;            /* Remove default padding */
+  list-style-type: none; /* Remove bullets */
 }
 
-// Publications section specific styles
-.publications .container.is-fluid {
-  font-size: 16px; // Adjust font size for publication content
-  padding: 1px; // Set padding as needed
+.hero .scroll ul li {
+  margin-bottom: 1px;    /* Add space between list items */
 }
 
-.publications .title {
-  font-size: 24px; // Font size for the "Publications" heading
+/* Link styling within the content */
+.hero .scroll a {
+  color: #007bff;        /* Link color */
+  text-decoration: none; /* Remove underline */
 }
 
-.publications .publication-title {
-  font-size: 18px; // Font size for publication titles
-}
-
-.publications .publication-links {
-  font-size: 14px; // Font size for links in publications
-}
-
-
-// Styles for the Recent News section
-section.recent-news {
-  .title {
-    font-size: 24px; // Adjust the font size for the "Recent News" heading
-  }
-  ul {
-    font-size: 14px; // Adjust the font size for the list items
-  }
+.hero .scroll a:hover {
+  text-decoration: underline; /* Underline on hover */
 }
 
