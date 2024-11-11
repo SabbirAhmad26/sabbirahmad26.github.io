@@ -14,3 +14,33 @@
   margin-top: 10px; // Adjust the top margin for the scroll section
   font-size: 14px;  // Set the font size for the content within the scroll section
 }
+
+// Publications section specific styles
+.publications .container.is-fluid {
+  font-size: 16px; // Adjust font size for publication content
+  padding: 1px; // Set padding as needed
+}
+
+.publications .title {
+  font-size: 24px; // Font size for the "Publications" heading
+}
+
+.publications .publication-title {
+  font-size: 18px; // Font size for publication titles
+}
+
+.publications .publication-links {
+  font-size: 14px; // Font size for links in publications
+}
+
+
+// Styles for the Recent News section
+section.recent-news {
+  .title {
+    font-size: 24px; // Adjust the font size for the "Recent News" heading
+  }
+  ul {
+    font-size: 14px; // Adjust the font size for the list items
+  }
+}
+
