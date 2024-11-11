@@ -1,6 +1,13 @@
 // File: _sass/_home-header.scss
 
 /* Styles for the About section */
+/* Override container width for full-width content */
+.hero .container {
+  max-width: 100%; /* Override any fixed width */
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .hero { 
   width: 80%; 
   margin: 0 auto; // Center the container horizontally
