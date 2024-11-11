@@ -9,35 +9,36 @@
   font-size: 24px;       /* Set font size for section headings */
   font-weight: bold;
   color: #333;
-  margin-bottom: 12px;
+  margin-bottom: 15px;
   text-align: left;
 }
 
 /* Content styling for "About" section */
 .hero .scroll ul {
   font-size: 12px;       /* Adjust font size for "About" content */
-  line-height: 1.2;
+  line-height: 1.6;      /* Increase line height for more line spacing within paragraphs */
   color: #000000;
   margin: 0;
   padding: 0;
   list-style-type: none;
+  text-align: justify;    /* Align text to both margins */
 }
 
 .hero .scroll ul li {
-  margin-bottom: 8px;    /* Space between items */
+  margin-bottom: 16px;   /* Increase space between paragraphs (list items) */
 }
 
 /* Content styling for "Recent News" section with increased specificity */
 .hero-body .container.is-fluid .scroll ul {
   font-size: 12px;       /* Adjust font size for "Recent News" content */
-  line-height: 1.2;
+  line-height: 1.6;      /* Increase line height for more line spacing within paragraphs */
   color: #000000;
   margin: 0;
   padding: 0;
   list-style-type: none;
+  text-align: justify;    /* Align text to both margins */
 }
 
 .hero-body .container.is-fluid .scroll ul li {
-  margin-bottom: 8px;    /* Space between items */
+  margin-bottom: 16px;   /* Increase space between paragraphs (list items) */
 }
-
