@@ -25,7 +25,7 @@
 }
 
 .hero .scroll ul li {
-  margin-bottom: 8px;   /* Increase space between paragraphs (list items) */
+  margin-bottom: 4px;   /* Reduced space between paragraphs (list items) */
 }
 
 /* Content styling for "Recent News" section with increased specificity */
@@ -40,5 +40,5 @@
 }
 
 .hero-body .container.is-fluid .scroll ul li {
-  margin-bottom: 16px;   /* Increase space between paragraphs (list items) */
+  margin-bottom: 8px;   /* Reduced space between paragraphs (list items) */
 }
