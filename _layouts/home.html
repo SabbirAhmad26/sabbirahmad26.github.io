@@ -43,47 +43,47 @@ layout: default
 <section>
     <h2>Publications</h2>
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
-        <!-- Repeat this block for each publication -->
+        <!-- Publication 1 -->
         <tr>
             <!-- Publication Image -->
             <td width="33%" valign="top" align="center">
-                <a href="#/"></a>
-                <img src="images/sample-image.png" alt="Publication Image" width="100%" height="100%"
-                     style="border-radius:15px; opacity:1.0;">
+                <img src="images/publication1.png" alt="Publication Image" width="100%" height="100%" style="border-radius:15px; opacity:1.0;">
             </td>
             <!-- Publication Details -->
             <td width="67%" valign="top">
                 <p>
-                    <a href="#" class="publication-title">
-                        <b>Publication Title</b>
-                    </a><br>
-                    <span>Author 1, Author 2, Author 3</span><br>
-                    <em>Journal/Conference Name, Year</em>
+                    <a href="#" class="publication-title"><b>Drive Anywhere: Generalizable End-to-end Autonomous Driving</b></a><br>
+                    Tsun-Hsuan Wang, Alaa Maalouf, Wei Xiao, et al.<br>
+                    <em>ICRA 2024</em>
                 </p>
                 <!-- Links to Paper, Code, etc. -->
                 <div class="publication-links">
-                    <a href="link-to-paper.pdf">[Paper]</a> |
-                    <a href="link-to-abstract" onclick="toggleAbstract('abstract-id')">[Abstract]</a> |
-                    <a href="link-to-bibtex" onclick="toggleBibtex('bibtex-id')">[BibTeX]</a> |
-                    <a href="link-to-code">[Code]</a> |
-                    <a href="link-to-video">[Video]</a>
+                    <a href="https://arxiv.org/abs/2310.17642">[Paper]</a> |
+                    <a href="javascript:void(0);" onclick="toggleAbstract('abstract-1')">[Abstract]</a> |
+                    <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-1')">[BibTeX]</a> |
+                    <a href="https://drive-anywhere.github.io/">[Code]</a> |
+                    <a href="https://www.youtube.com/watch?v=4n-DJf8vXxo">[Video]</a>
                 </div>
-                <!-- Abstract and BibTeX Hidden by Default -->
-                <div id="abstract-id" style="display:none;">
-                    <p><i>Abstract content goes here...</i></p>
+                <!-- Hidden Abstract and BibTeX sections -->
+                <div id="abstract-1" style="display:none;">
+                    <p><i>As autonomous driving technology matures, end-to-end methodologies...</i></p>
                 </div>
-                <pre id="bibtex-id" style="display:none;">
-                    @article{sample2024,
-                      title={Publication Title},
-                      author={Author 1 and Author 2},
-                      journal={Journal Name},
-                      year={2024}
+                <pre id="bibtex-1" style="display:none;">
+                    @article{wang2023drive,
+                      title={Drive anywhere: Generalizable end-to-end autonomous driving with multi-modal foundation models},
+                      author={Wang, Tsun-Hsuan and Maalouf, Alaa and Xiao, Wei, et al.},
+                      journal={arXiv preprint arXiv:2310.17642},
+                      year={2023}
                     }
                 </pre>
             </td>
         </tr>
-        <!-- Repeat block ends -->
+        <!-- Add more publications by repeating the block above with unique IDs for each -->
     </table>
 </section>
+
+<!-- Link to the external JavaScript file -->
+<script src="js/scripts.js"></script>
+
 
  
