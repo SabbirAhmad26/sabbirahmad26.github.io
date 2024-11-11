@@ -39,13 +39,51 @@ layout: default
   </div>
 </section>
 
-<section class="hero">
-  <div class="container">
-    <h1 class="title is-3">Selected Publications</h1>
-    <div class="scroll">
-      <ul>
-        <li>Ehsan Sabouni, <b>H M Sabbir Ahmad</b>, Vittorio Giammarino, Christos Cassandras, Yannis Paschalidis, Wenchao Li, Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems, 2024 Conference on Decision and Control [<a href="https://arxiv.org/pdf/2403.17338" target="_blank">PDF</a>]</li>
-        <li><b>H M Sabbir Ahmad</b>, Ehsan Sabouni, Akua Dickson, Wei Xiao, Christos G Cassandras, Wenchao Li, Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions, Network and Distributed System Security (NDSS) VehicleSec Symposium 2024 [<a href="https://arxiv.org/pdf/2401.02306.pdf" target="_blank">PDF</a>]</li>
-        <li><b>H M Sabbir Ahmad</b>, Ehsan Sabouni, Wei Xiao, Christos
-::contentReference[oaicite:0]{index=0}
+<!-- =================== Publications Section =================== -->
+<section>
+    <h2>Publications</h2>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+        <!-- Repeat this block for each publication -->
+        <tr>
+            <!-- Publication Image -->
+            <td width="33%" valign="top" align="center">
+                <a href="#/"></a>
+                <img src="images/sample-image.png" alt="Publication Image" width="100%" height="100%"
+                     style="border-radius:15px; opacity:1.0;">
+            </td>
+            <!-- Publication Details -->
+            <td width="67%" valign="top">
+                <p>
+                    <a href="#" class="publication-title">
+                        <b>Publication Title</b>
+                    </a><br>
+                    <span>Author 1, Author 2, Author 3</span><br>
+                    <em>Journal/Conference Name, Year</em>
+                </p>
+                <!-- Links to Paper, Code, etc. -->
+                <div class="publication-links">
+                    <a href="link-to-paper.pdf">[Paper]</a> |
+                    <a href="link-to-abstract" onclick="toggleAbstract('abstract-id')">[Abstract]</a> |
+                    <a href="link-to-bibtex" onclick="toggleBibtex('bibtex-id')">[BibTeX]</a> |
+                    <a href="link-to-code">[Code]</a> |
+                    <a href="link-to-video">[Video]</a>
+                </div>
+                <!-- Abstract and BibTeX Hidden by Default -->
+                <div id="abstract-id" style="display:none;">
+                    <p><i>Abstract content goes here...</i></p>
+                </div>
+                <pre id="bibtex-id" style="display:none;">
+                    @article{sample2024,
+                      title={Publication Title},
+                      author={Author 1 and Author 2},
+                      journal={Journal Name},
+                      year={2024}
+                    }
+                </pre>
+            </td>
+        </tr>
+        <!-- Repeat block ends -->
+    </table>
+</section>
+
  
