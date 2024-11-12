@@ -77,10 +77,10 @@
 
 /* Authors styling */
 .authors {
-    font-size: 10px;
+    font-size: 11px;
     color: #000000;
     font-style: italic;
-    margin-top: 4px;       /* Small space above authors */
+    margin-top: 0;       /* Small space above authors */
     margin-bottom: 0;      /* Remove space below authors */
     display: inline-block; /* Prevent extra spacing by inline-block display */
     text-align: justify;
@@ -88,10 +88,10 @@
 
 /* Conference information styling */
 .conference-info {
-    font-size: 10px;       /* Smaller font size for conference info */
+    font-size: 11px;       /* Smaller font size for conference info */
     color: #555;
     font-style: italic;
     margin-top: 0;         /* Remove extra space above */
-    margin-bottom: 4px;    /* Small space below conference info */
+    margin-bottom: 0;    /* Small space below conference info */
     display: inline-block; /* Prevent extra spacing by inline-block display */
 }
