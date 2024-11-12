@@ -84,9 +84,8 @@
 .conference-info {
     font-size: 11px;       /* Smaller font size for conference info */
     color: #555;
-    line-height: 0;      /* Adjust line height for readability */
     font-style: italic;
     margin-top: 0;         /* Remove extra space above */
-    margin-bottom: 0;    /* Small space below conference info */
+    margin-bottom: 4;    /* Small space below conference info */
     display: inline-block; /* Prevent extra spacing by inline-block display */
 }
