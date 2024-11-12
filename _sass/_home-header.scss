@@ -53,7 +53,7 @@
 
 /* Smaller font for publication links */
 .publication-links a {
-  font-size: 0.3em;        /* Smaller font size */
+  font-size: 0.15em;        /* Smaller font size */
   color: #007bff;
   text-decoration: none;
 }
@@ -74,7 +74,7 @@
 
 /* Smaller font for authors */
 .authors {
-  font-size: 0.3em;       /* Smaller font size */
+  font-size: 0.15em;       /* Smaller font size */
   color: #000000;
   font-style: italic;
   margin-top: 0;
@@ -85,7 +85,7 @@
 
 /* Smaller font for conference information */
 .conference-info {
-  font-size: 0.3em;       /* Smaller font size */
+  font-size: 0.15em;       /* Smaller font size */
   color: #555;
   font-style: italic;
   margin: 0;
@@ -116,8 +116,8 @@
 
 @media (min-width: 1024px) {
   .container.is-fluid {
-    padding-left: 6%;
-    padding-right: 6%;
+    padding-left: 0%;
+    padding-right: 0%;
   }
   .title.is-3 {
     font-size: 2em;
