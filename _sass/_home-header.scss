@@ -75,6 +75,16 @@
     font-size: 12px;       /* Adjust font size for author names */
     color: #000000;           /* Dark gray color for better readability */
     display: block;        /* Ensures the authors appear on their own line */
-    margin-top: 5px;       /* Small space above authors for separation */
-    font-style: italic;    /* Italicize to differentiate from the title */
+    margin-top: 0px;      /* Small space above authors */
+    margin-bottom: 0;     /* Remove space below authors */
+    font-style: italic;
+}
+
+.conference-info {
+    font-size: 12px;      /* Smaller font size for conference info */
+    color: #555;
+    font-style: italic;
+    margin-top: 0;        /* Remove extra space above */
+    margin-bottom: 0px;   /* Small space below conference info */
+    display: block;
 }
