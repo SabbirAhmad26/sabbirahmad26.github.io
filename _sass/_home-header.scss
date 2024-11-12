@@ -57,91 +57,80 @@
   text-align: justify;
 }
 
-.publication-title {
-  font-size: 0.15em;       /* Adjust font size */
-  font-weight: bold;
-  color: #000000;
-  line-height: 1;          /* Set line height to minimize spacing */
-  margin: 0;               
-  padding: 0;             
-  display: inline;         
-  text-align: justify;
-  text-decoration: none;
+/* General styling for the publication section */
+.publication-section {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-/* Smaller font for publication links */
+.section-title {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Flex container for each publication item */
+.publication-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+/* Styling for the publication image */
+.publication-image {
+  width: 150px;
+  height: auto;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+
+/* Styling for the publication details */
+.publication-details {
+  flex: 1;
+}
+
+.publication-title {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #000;
+  margin: 0 0 10px;
+}
+
+.authors, .conference-info {
+  font-size: 1em;
+  color: #555;
+  margin: 0 0 5px;
+}
+
 .publication-links a {
-  font-size: 0.1em;
+  font-size: 1em;
   color: #007bff;
   text-decoration: none;
 }
+
 .publication-links a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
-.publication-details p {
-  margin: 0;
-  padding: 0;
-  font-size: 0.2em;
-}
-
-/* Spacing between "Recent News" items */
-.hero-body .container.is-fluid .scroll ul li {
-  margin-bottom: 0.5em;
-}
-
-/* Smaller font for authors */
-.authors {
-  font-size: 0.1em;
-  color: #000000;
-  font-style: italic;
-  margin-top: 0;
-  margin-bottom: 0;
-  display: inline-block;
-  text-align: justify;
-}
-
-/* Smaller font for conference information */
-.conference-info {
-  font-size: 0.1em;
-  color: #555;
-  font-style: italic;
-  margin: 0;
-  display: inline-block;
-  padding-top: 0;
-  line-height: 1;
-}
-
-/* Responsive Design Adjustments */
-@media (max-width: 600px) {
-  .publication-container {
-    flex-direction: column; /* Stack image and text vertically */
-    align-items: center;    /* Center-align for a cleaner look on mobile */
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .publication-item {
+    flex-direction: column;
+    align-items: center;
   }
 
   .publication-image {
-    max-width: 100%; /* Full-width on mobile */
-    height: auto;
+    margin-right: 0;
+    margin-bottom: 10px;
   }
 
-  .title.is-3 {
-    font-size: 1.2em;
-    text-align: center;
-  }
-
-  .publication-title {
-    font-size: 1em;
-    text-align: center;
-  }
-
-  .publication-links a,
-  .publication-details p,
-  .authors,
-  .conference-info {
-    font-size: 0.9em;
+  .publication-title, .authors, .conference-info, .publication-links a {
     text-align: center;
   }
 }
+
 
 /* Adjustments for tablets and larger devices */
 @media (min-width: 768px) {
