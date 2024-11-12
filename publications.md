@@ -222,7 +222,7 @@ title: "Publications"
         <!-- Publication Image -->
         <td style='width:300px;height:150px'>
             <a imageanchor='1' href='/images/OAQM.png'>
-                <img width='200' src='/images/Air_Quality_Monitoring.png' height='130' border='0' style='border-radius: 5px'/>
+                <img width='200' src='/images/OAQM.png' height='130' border='0' style='border-radius: 5px'/>
             </a>
         </td>
         <!-- Publication Details -->
@@ -253,15 +253,49 @@ title: "Publications"
         </td>
     </tr>
 </table>
+<table style='border-width:0px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
+    <!-- Publication 1 -->
+    <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/Att_Detec_Mit.png'>
+                <img width='200' src='/images/Att_Detec_Mit.png' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column</b>
+            <br/> H M Sabbir Ahmad, Nader Meskin
+            <br/>IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT), 2020
+            <br/>
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://ieeexplore.ieee.org/document/9089577">[PDF]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-8')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-8')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-8" style="display:none;">
+                <p><i>Attack detection and isolation technique for sensor attacks on safety critical CPS.</i></p>
+            </div>
+            <pre id="bibtex-8" style="display:none;">
+                @inproceedings{Ahmad2020CyberAttack,
+                  title={Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column},
+                  author={H M Sabbir Ahmad and Nader Meskin},
+                  booktitle={IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)},
+                  year={2020},
+                  pages={1-6},
+                  doi={10.1109/ICIoT48696.2020.9089577}
+                }
+            </pre>
+        </td>
+    </tr>
+</table>
 
 </section>
 
-* **Energy Efficient Real time Outdoor Air Quality Monitoring System** [<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>],
-  <br> Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi,
-  <br> **International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176**.
-* **Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column** [<a href="https://ieeexplore.ieee.org/document/9089577" target="_blank">PDF</a>],
-<br> H M Sabbir Ahmad, Nader Meskin,
-<br> **IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)**. 
+
+* ** 
 * **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
 <br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin,
 <br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)**. 
