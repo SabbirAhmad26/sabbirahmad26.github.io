@@ -70,3 +70,11 @@
 .hero-body .container.is-fluid .scroll ul li {
   margin-bottom: 8px;   /* Reduced space between paragraphs (list items) */
 }
+
+.authors {
+    font-size: 14px;       /* Adjust font size for author names */
+    color: #555;           /* Dark gray color for better readability */
+    display: block;        /* Ensures the authors appear on their own line */
+    margin-top: 5px;       /* Small space above authors for separation */
+    font-style: italic;    /* Italicize to differentiate from the title */
+}
