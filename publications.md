@@ -291,9 +291,8 @@ title: "Publications"
         </td>
     </tr>
 </table>
-
 </section>
-
+<script src="/js/scripts.js"></script>
 
 * ** 
 * **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
