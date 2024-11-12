@@ -82,12 +82,11 @@
 
 /* Conference information styling */
 .conference-info {
-    font-size: 11px;       /* Smaller font size for conference info */
-    color: #555;
-    font-style: italic;
-    display: inline-block; /* Prevent extra spacing by inline-block display */
-    margin: 0;
-    padding-top: 2px; /* Adjusts space above conference info */
-    padding-bottom: 0; /* Removes extra space below conference info */
-    line-height: 0;
+  font-size: 11px;
+  color: #555;
+  font-style: italic;
+  margin: 0;
+  display: inline-block;
+  padding-top: 0; /* Removes extra space above conference info */
+  line-height: 1; /* Reduced line spacing */
 }
