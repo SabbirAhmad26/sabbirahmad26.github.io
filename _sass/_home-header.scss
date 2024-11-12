@@ -69,7 +69,6 @@
   text-decoration: none;
 }
 
-
 /* Smaller font for publication links */
 .publication-links a {
   font-size: 0.1em;
@@ -114,6 +113,37 @@
 }
 
 /* Responsive Design Adjustments */
+@media (max-width: 600px) {
+  .publication-container {
+    flex-direction: column; /* Stack image and text vertically */
+    align-items: center;    /* Center-align for a cleaner look on mobile */
+  }
+
+  .publication-image {
+    max-width: 100%; /* Full-width on mobile */
+    height: auto;
+  }
+
+  .title.is-3 {
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  .publication-title {
+    font-size: 1em;
+    text-align: center;
+  }
+
+  .publication-links a,
+  .publication-details p,
+  .authors,
+  .conference-info {
+    font-size: 0.9em;
+    text-align: center;
+  }
+}
+
+/* Adjustments for tablets and larger devices */
 @media (min-width: 768px) {
   .container.is-fluid {
     padding-left: 0%;
