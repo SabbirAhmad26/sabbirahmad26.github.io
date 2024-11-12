@@ -1,7 +1,7 @@
 /* General container styling for "About" and "Recent News" sections */
 .container.is-fluid {
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 0%;
+  padding-right: 0%;
   max-width: 100%;
 }
 
@@ -42,7 +42,7 @@
 
 /* Smaller font for publication title */
 .publication-title {
-  font-size: 0.35em;       /* Smaller font size */
+  font-size: 0.2em;       /* Smaller font size */
   font-weight: bold;
   color: #000000;
   line-height: 1;
