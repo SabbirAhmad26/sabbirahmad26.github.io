@@ -1,6 +1,6 @@
 - title: About
   url: /about
 - title: Publications
-  url: /publications/
+  url: _layouts/home/
 - title: Work Experience
   url: /experience/
