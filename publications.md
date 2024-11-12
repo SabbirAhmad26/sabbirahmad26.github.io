@@ -2,7 +2,46 @@
 layout: page
 title: "Publications"
 ---
+<section>
+    <h1 class="title is-3">Publications</h1>
+  
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+        <!-- Conference Paper Example -->
+        <tr>
+            <!-- Publication Image -->
+            <td style='width:300px;height:150px'>
+                <a imageanchor='1' href='images/MARL_CBF.gif'>
+                    <img width='200' src='images/MARL_CBF.gif' height='120' border='0' style='border-radius: 5px'/>
+                </a>
+            </td>
+            <!-- Publication Details -->
+            <td width="67%" valign="top">
+                <b>Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems</b>
+                <br>Ehsan Sabouni, H M Sabbir Ahmad, Vittorio Giammarino, Christos G Cassandras, Ioannis Ch. Paschalidis, Wenchao Li<br>Accepted at **CDC 2024**
+                <div class="publication-links">
+                    <a href="https://arxiv.org/abs/2403.17338">[PDF]</a> |
+                    <a href="javascript:void(0);" onclick="toggleAbstract('abstract-1')">[Abstract]</a> |
+                    <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-1')">[BibTeX]</a> |
+                    <a href="https://github.com/SabbirAhmad26/CDC2024_RL_adpative_MPC_CBF">[Code]</a>
+                </div>
+                <div id="abstract-1" style="display:none;">
+                    <p><i>This work proposes a reinforcement learning-based control approach using adaptive control barrier functions for safety-critical systems.</i></p>
+                </div>
+                <pre id="bibtex-1" style="display:none;">
+@inproceedings{Ahmad2024RLCBF,
+  title={Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems},
+  author={Ehsan Sabouni, H M Sabbir Ahmad, Vittorio Giammarino, Christos G. Cassandras, Ioannis Ch. Paschalidis, Wenchao Li},
+  booktitle={CDC},
+  year={2024}
+}
+                </pre>
+            </td>
+        </tr>
 
+        <!-- Repeat the above structure for each publication with unique IDs for abstracts and BibTeX entries -->
+
+    </table>
+</section>
 ## Conference papers
 * **Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems**[<a href="https://arxiv.org/abs/2403.17338" target="_blank">PDF</a>],
 <br> Ehsan Sabouni, H M Sabbir Ahmad, Vittorio Giammarino, Christos G. Cassandras, Ioannis Ch. Paschalidis, Wenchao Li
