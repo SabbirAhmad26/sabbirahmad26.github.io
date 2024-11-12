@@ -45,8 +45,8 @@ title: "Publications"
         <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='images/mixed_video1.gif'>
-                    <img width='200' src='images/mixed_video1.gif' height='80' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='./images/mixed_video1.gif'>
+                    <img width='200' src='./images/mixed_video1.gif' height='80' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
