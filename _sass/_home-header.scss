@@ -39,12 +39,6 @@
   text-align: justify;    /* Align text to both margins */
 }
 
-/* Styling for the Publications section */
-.publication-links, .publication-details {
-  font-size: 12px;       /* Smaller font size for publication content */
-  line-height: 0;      /* Adjust line height for readability */
-}
-
 .publication-title {
     font-size: 12px;       /* Adjust font size as needed */
     font-weight: bold;
@@ -90,6 +84,7 @@
 .conference-info {
     font-size: 11px;       /* Smaller font size for conference info */
     color: #555;
+    line-height: 0;      /* Adjust line height for readability */
     font-style: italic;
     margin-top: 0;         /* Remove extra space above */
     margin-bottom: 0;    /* Small space below conference info */
