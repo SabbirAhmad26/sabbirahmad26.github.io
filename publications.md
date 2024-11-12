@@ -10,8 +10,8 @@ title: "Publications"
         <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='images/MARL_CBF.gif'>
-                    <img width='200' src='images/MARL_CBF.gif' height='120' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='./images/MARL_CBF.gif'>
+                    <img width='200' src='./images/MARL_CBF.gif' height='120' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
