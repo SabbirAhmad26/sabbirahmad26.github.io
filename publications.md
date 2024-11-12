@@ -45,8 +45,8 @@ title: "Publications"
         <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='./images/mixed_video1.gif'>
-                    <img width='200' src='./images/mixed_video1.gif' height='80' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='/images/mixed_video1.gif'>
+                    <img width='200' src='/images/mixed_video1.gif' height='80' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
@@ -81,8 +81,8 @@ title: "Publications"
         <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='images/accident_video.gif'>
-                    <img width='200' src='images/accident_video.gif' height='130' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='/images/accident_video.gif'>
+                    <img width='200' src='/images/accident_video.gif' height='130' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
@@ -117,8 +117,8 @@ title: "Publications"
         <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='images/rescav.png'>
-                    <img width='200' src='images/rescav.png' height='130' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='/images/rescav.png'>
+                    <img width='200' src='/images/rescav.png' height='130' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
@@ -152,8 +152,8 @@ title: "Publications"
         <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='images/event_TAC.gif'>
-                    <img width='200' src='images/event_TAC.gif' height='130' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='/images/event_TAC.gif'>
+                    <img width='200' src='/images/event_TAC.gif' height='130' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
@@ -187,8 +187,8 @@ title: "Publications"
         <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='images/Cyber_attack.gif'>
-                    <img width='200' src='images/Cyber_attack.gif' height='130' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='/images/Cyber_attack.gif'>
+                    <img width='200' src='/images/Cyber_attack.gif' height='130' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
