@@ -49,7 +49,7 @@
     font-size: 12px;       /* Adjust font size as needed */
     font-weight: bold;
     color: #000000;           /* Set color if needed */
-    line-height: 0;      /* Reduce line spacing */
+    line-height: 1.1 !important;
     margin: 0;             /* Remove any extra margin */
     text-align: justify;    /* Align text to both margins */
 }
