@@ -17,8 +17,7 @@ title: "Publications"
             <!-- Publication Details -->
             <td width="67%" valign="top">
                     <b>Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems</b>
-                    <br/>Zhili Zhang, H M Sabbir Ahmad, Ehsan Sabouni, Yanchao Sun, Furong Huang, Wenchao Li, Fei Miao<br/>Under review (ICRA 2024)<br/>
-                </p>
+                    <br/>Zhili Zhang, H M Sabbir Ahmad, Ehsan Sabouni, Yanchao Sun, Furong Huang, Wenchao Li, Fei Miao<br/>Under review (ICRA 2024)<br/>                
                 <!-- Links to Paper, Code, etc. -->
                 <div class="publication-links">
                     <a href="https://arxiv.org/abs/2309.11057">[Paper]</a> |
