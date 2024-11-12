@@ -40,8 +40,9 @@
   text-align: justify;
 }
 
+/* Smaller font for publication title */
 .publication-title {
-  font-size: 0.4em;      /* Use em for relative font size */
+  font-size: 0.35em;       /* Smaller font size */
   font-weight: bold;
   color: #000000;
   line-height: 1;
@@ -50,9 +51,9 @@
   text-decoration: none;
 }
 
-/* Link styling for publications */
+/* Smaller font for publication links */
 .publication-links a {
-  font-size: 0.35em;
+  font-size: 0.3em;        /* Smaller font size */
   color: #007bff;
   text-decoration: none;
 }
@@ -63,7 +64,7 @@
 .publication-details p {
   margin: 0;
   padding: 0;
-  font-size: 0.35em;
+  font-size: 0.3em;        /* Smaller font size for paragraph text */
 }
 
 /* Spacing between "Recent News" items */
@@ -71,9 +72,9 @@
   margin-bottom: 0.5em;
 }
 
-/* Authors styling */
+/* Smaller font for authors */
 .authors {
-  font-size: 0.35em;    /* Slightly smaller for emphasis */
+  font-size: 0.3em;       /* Smaller font size */
   color: #000000;
   font-style: italic;
   margin-top: 0;
@@ -82,9 +83,9 @@
   text-align: justify;
 }
 
-/* Conference information styling */
+/* Smaller font for conference information */
 .conference-info {
-  font-size: 0.35em;
+  font-size: 0.3em;       /* Smaller font size */
   color: #555;
   font-style: italic;
   margin: 0;
@@ -109,7 +110,7 @@
   .publication-details p,
   .authors,
   .conference-info {
-    font-size: 0.875em;
+    font-size: 0.75em;     /* Adjust font size slightly for larger screens */
   }
 }
 
@@ -128,6 +129,6 @@
   .publication-details p,
   .authors,
   .conference-info {
-    font-size: 1em;
+    font-size: 0.875em;    /* Slightly larger for desktops */
   }
 }
