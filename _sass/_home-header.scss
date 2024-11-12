@@ -40,9 +40,18 @@
 }
 
 /* Styling for the Publications section */
-.publication-links, .publication-title, .publication-details {
+.publication-links, .publication-details {
   font-size: 12px;       /* Smaller font size for publication content */
   line-height: 1.4;      /* Adjust line height for readability */
+}
+
+.publication-title {
+    font-size: 12px;       /* Adjust font size as needed */
+    font-weight: bold;
+    color: #000000;           /* Set color if needed */
+    line-height: 0;      /* Reduce line spacing */
+    margin: 0;             /* Remove any extra margin */
+    text-align: justify;    /* Align text to both margins */
 }
 
 .publication-title {
@@ -78,6 +87,7 @@
     margin-top: 0px;      /* Small space above authors */
     margin-bottom: 0;     /* Remove space below authors */
     font-style: italic;
+    text-align: justify;    /* Align text to both margins */
 }
 
 .conference-info {
