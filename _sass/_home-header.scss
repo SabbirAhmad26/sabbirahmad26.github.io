@@ -54,11 +54,6 @@
     text-align: justify;    /* Align text to both margins */
 }
 
-.publication-title {
-  font-weight: bold;
-  color: #000000;           /* Darker color for readability */
-}
-
 .publication-links a {
   font-size: 12px;       /* Smaller font size for links */
   color: #007bff;
@@ -80,21 +75,33 @@
   margin-bottom: 8px;   /* Reduced space between paragraphs (list items) */
 }
 
-.authors {
-    font-size: 12px;       /* Adjust font size for author names */
-    color: #000000;           /* Dark gray color for better readability */
-    display: block;        /* Ensures the authors appear on their own line */
-    margin-top: 0px;      /* Small space above authors */
-    margin-bottom: 0;     /* Remove space below authors */
-    font-style: italic;
-    text-align: justify;    /* Align text to both margins */
+/* Styling for the Publications section */
+.publication-title {
+    font-size: 14px;       /* Adjust font size for the title */
+    font-weight: bold;
+    color: #000000;
+    line-height: 1.2;      /* Adjust line height to reduce spacing between title lines */
+    margin: 0;             /* Remove extra margins */
+    text-align: justify;   /* Align text to both margins */
 }
 
+/* Authors styling */
+.authors {
+    font-size: 12px;
+    color: #000000;
+    font-style: italic;
+    margin-top: 4px;       /* Small space above authors */
+    margin-bottom: 0;      /* Remove space below authors */
+    display: inline-block; /* Prevent extra spacing by inline-block display */
+    text-align: justify;
+}
+
+/* Conference information styling */
 .conference-info {
-    font-size: 12px;      /* Smaller font size for conference info */
+    font-size: 11px;       /* Smaller font size for conference info */
     color: #555;
     font-style: italic;
-    margin-top: 0;        /* Remove extra space above */
-    margin-bottom: 0px;   /* Small space below conference info */
-    display: block;
+    margin-top: 0;         /* Remove extra space above */
+    margin-bottom: 4px;    /* Small space below conference info */
+    display: inline-block; /* Prevent extra spacing by inline-block display */
 }
