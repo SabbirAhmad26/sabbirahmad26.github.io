@@ -2,9 +2,8 @@
 layout: page
 title: "Publications"
 ---
-<section>
-    <h1 class="title is-3">Publications</h1>
-  
+##**Conference papers**
+<section>  
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
         <!-- Publication 1 -->
         <tr>
@@ -217,26 +216,46 @@ title: "Publications"
         </tr>
         <!-- Additional publications... -->
     </table>
+    <table style='border-width:0px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
+    <!-- Publication 1 -->
+    <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/OAQM.png'>
+                <img width='200' src='/images/Air_Quality_Monitoring.png' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>Energy Efficient Real-time Outdoor Air Quality Monitoring System</b>
+            <br/> Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi 
+            <br/>2020 International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, pp. 2170-2176<br/> 
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://ieeexplore.ieee.org/abstract/document/9148229">[PDF]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-7')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-7')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-7" style="display:none;">
+                <p><i>Energy Efficient Real-time Outdoor Air Quality Monitoring System using wireless communication.</i></p>
+            </div>
+            <pre id="bibtex-7" style="display:none;">
+                @inproceedings{Abdaoui_2020,
+                  title={Energy Efficient Real-time Outdoor Air Quality Monitoring System},
+                  author={Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi},
+                  booktitle={International Wireless Communications and Mobile Computing (IWCMC)},
+                  location={Limassol, Cyprus},
+                  year={2020},
+                  pages={pp. 2170-2176}
+                }
+            </pre>
+        </td>
+    </tr>
+</table>
+
 </section>
-## Conference papers
-* **Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems**[<a href="https://arxiv.org/abs/2403.17338" target="_blank">PDF</a>],
-<br> Ehsan Sabouni, H M Sabbir Ahmad, Vittorio Giammarino, Christos G. Cassandras, Ioannis Ch. Paschalidis, Wenchao Li
-<br> Accepted as a paper at **CDC 2024**
-* **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-37-paper.pdf" target="_blank">PDF</a>],
-<br> H M Sabbir Ahmad, Ehsan Sabouni, Akua Dickson, Wei Xiao, Christos G Cassandras, Wenchao Li
-**(NDSS) VehicleSec Symposium 2024**
-* **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10421858" target="_blank">PDF</a>],
- <br> H M Sabbir Ahmad, Ehsan Sabouni, Wei Xiao, Christos G Cassandras, Wenchao Li
- <br> Accepted as a paper at **26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023**.
-* **Merging control in mixed traffic with safety guarantees: a safe sequencing policy with optimal motion control** [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10422265" target="_blank">PDF</a>],
-<br> Ehsan Sabouni, H M Sabbir Ahmad, Christos G Cassandras, Wenchao Li
-  <br> Accepted as a paper at **26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023**.
-* **Optimal Control of Connected Automated Vehicles with Event-Triggered Control Barrier Functions: a Test Bed for Safe Optimal Merging** [<a href="https://ieeexplore.ieee.org/abstract/document/10253379" target="_blank">PDF</a>],
-  <br> E Sabouni, H M Sabbir Ahmad, W Xiao, CG Cassandras, W Li
-  <br> Accepted as a paper at **7th IEEE Conference on Control Technology and Applications (CCTA) 2023**.
-* **Evaluations of Cyberattacks on Cooperative Control of Connected and Autonomous Vehicles at Bottleneck Points** [<a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23082-paper.pdf" target="_blank">PDF</a>]
-  <br> H M Sabbir Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
-  <br> **(NDSS) VehicleSec Symposium 2023**
+
 * **Energy Efficient Real time Outdoor Air Quality Monitoring System** [<a href="https://ieeexplore.ieee.org/abstract/document/9148229" target="_blank">PDF</a>],
   <br> Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi,
   <br> **International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, 2020, pp. 2170-2176**.
