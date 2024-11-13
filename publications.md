@@ -303,21 +303,21 @@ title: "Publications"
         </td>
         <!-- Publication Details -->
         <td width="67%" valign="top">
-            <b>Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column</b>
-            <br/> H M Sabbir Ahmad, Nader Meskin
+            <b>oltage Control in Distribution Networks Using Current Source Converter STATCOM Based on State Feedback Controller and Kalman Filter</b>
+            <br/> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin
             <br/>IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT), 2020
             <br/>
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
                 <a href="https://ieeexplore.ieee.org/document/9089577">[PDF]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-8')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-8')">[BibTeX]</a>
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-9')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-9')">[BibTeX]</a>
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-8" style="display:none;">
+            <div id="abstract-9" style="display:none;">
                 <p><i>Attack detection and isolation technique for sensor attacks on safety critical CPS.</i></p>
             </div>
-            <pre id="bibtex-8" style="display:none;">
+            <pre id="bibtex-9" style="display:none;">
                 @inproceedings{Ahmad2018VoltageControl,
                   title={Voltage Control in Distribution Networks Using Current Source Converter STATCOM Based on State Feedback Controller and Kalman Filter},
                   author={H M Sabbir Ahmad and Ahmed Massoud and Nader Meskin},
