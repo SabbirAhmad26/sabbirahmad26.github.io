@@ -460,8 +460,8 @@ title: "Publications"
     <tr>
         <!-- Publication Image -->
         <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/Cyber_Attack_Detection_Book.gif'>
-                <img width='200' src='/images/Cyber_Attack_Detection_Book.gif' height='130' border='0' style='border-radius: 5px'/>
+            <a imageanchor='1' href='/images/Cyber_ICS.png'>
+                <img width='200' src='/images/Cyber_ICS.png' height='130' border='0' style='border-radius: 5px'/>
             </a>
         </td>
         <!-- Publication Details -->
@@ -473,14 +473,14 @@ title: "Publications"
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
                 <a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13">[Book Link]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-12')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-12')">[BibTeX]</a>
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-13')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-13')">[BibTeX]</a>
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-12" style="display:none;">
-                <p><i>This chapter focuses on the development of cyber-attack detection techniques for a cyber-physical distillation column, highlighting the importance of securing industrial control systems against malicious attacks.</i></p>
+            <div id="abstract-13" style="display:none;">
+                <p><i>The chapter presents an attack detection technique to secure ICS of CPS against malicious attacks.  This technique was validated using a Hardware-in-the-Loop (HIL) testbed, which incorporated industrial-grade hardware from Siemens.</i></p>
             </div>
-            <pre id="bibtex-12" style="display:none;">
+            <pre id="bibtex-13" style="display:none;">
                 @incollection{Ahmad2022CyberAttackBook,
                   title={Cyber-Attack Detection for a Crude Oil Distillation Column},
                   author={H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin},
@@ -497,14 +497,8 @@ title: "Publications"
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
     <!-- Publication 2 -->
     <tr>
-        <!-- Publication Image -->
-        <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/Rotor_Flux_Control_Book.gif'>
-                <img width='200' src='/images/Rotor_Flux_Control_Book.gif' height='130' border='0' style='border-radius: 5px'/>
-            </a>
-        </td>
         <!-- Publication Details -->
-        <td width="67%" valign="top">
+        <td width="100%" valign="top">
             <b>Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator</b>
             <br/> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin
             <br/>In <i>Renewable Power for Sustainable Growth</i>, pp. 143–154, 2021
@@ -512,14 +506,14 @@ title: "Publications"
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
                 <a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14">[Book Link]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-13')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-13')">[BibTeX]</a>
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-14')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-14')">[BibTeX]</a>
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-13" style="display:none;">
+            <div id="abstract-14" style="display:none;">
                 <p><i>This chapter presents the implementation of rotor flux-oriented control for controlling the rotational speed and torque of a three-phase squirrel cage induction motor, utilizing sliding mode controllers and rotor flux estimation techniques.</i></p>
             </div>
-            <pre id="bibtex-13" style="display:none;">
+            <pre id="bibtex-14" style="display:none;">
                 @incollection{Ahmad2021RotorFluxBook,
                   title={Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator},
                   author={H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin},
