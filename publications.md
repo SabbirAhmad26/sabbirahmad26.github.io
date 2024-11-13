@@ -218,37 +218,40 @@ title: "Publications"
     </table>
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
         <!-- Publication 1 -->
-        <tr>
-            <!-- Publication Image -->
-            <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='/images/Cyber_attack.gif'>
-                    <img width='200' src='/images/Cyber_attack.gif' height='130' border='0' style='border-radius: 5px'/>
-                </a>
-            </td>
-            <!-- Publication Details -->
-            <td width="67%" valign="top">
-              <b>Evaluations of cyber attacks on cooperative control of connected and autonomous vehicles at bottleneck points</b>
-              <br/> H M Sabbir Ahmad, Wei Xiao, Christos G Cassandras, Wenchao Li <br/>2023 IEEE Conference on Control Technology and Applications (CCTA)<br/> 
-              <!-- Links to Paper, Code, etc. -->
-              <div class="publication-links">
-                  <a href="https://par.nsf.gov/servlets/purl/10420904">[Paper]</a> |
-                  <a href="javascript:void(0);" onclick="toggleAbstract('abstract-6')">[Abstract]</a> |
-                  <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-6')">[BibTeX]</a> |
-              </div>
-              <!-- Hidden Abstract and BibTeX sections -->
-              <div id="abstract-6" style="display:none;">
-                  <p><i>Evaluations of Cyber-attacks on Connected and Automated Vehicles.</i></p>
-              </div>
-              <pre id="bibtex-6" style="display:none;">
-                  @article{Ahmad_06,
-                    title={Evaluations of cyber attacks on cooperative control of connected and autonomous vehicles at bottleneck points},
-                    author={H M Sabbir Ahmad, Ehsan Sabouni, Wei Xiao, Christos G Cassandras, Wenchao Li},
-                    journal={Symposium on Vehicles Security and Privacy (VehicleSec)},
-                    year={2023}
-                  }
-              </pre>
-            </td>
-        </tr>
+    <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/OAQM.png'>
+                <img width='200' src='/images/OAQM.png' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>Energy Efficient Real-time Outdoor Air Quality Monitoring System</b>
+            <br/> Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi 
+            <br/>2020 International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, pp. 2170-2176<br/> 
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://ieeexplore.ieee.org/abstract/document/9148229">[PDF]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-7')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-7')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-7" style="display:none;">
+                <p><i>Energy Efficient Real-time Outdoor Air Quality Monitoring System using wireless communication.</i></p>
+            </div>
+            <pre id="bibtex-7" style="display:none;">
+                @inproceedings{Abdaoui_2020,
+                  title={Energy Efficient Real-time Outdoor Air Quality Monitoring System},
+                  author={Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi},
+                  booktitle={International Wireless Communications and Mobile Computing (IWCMC)},
+                  location={Limassol, Cyprus},
+                  year={2020},
+                  pages={pp. 2170-2176}
+                }
+            </pre>
+        </td>
+    </tr>
         <!-- Additional publications... -->
     </table>
     <table style='border-width:0px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
