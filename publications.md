@@ -351,14 +351,14 @@ title: "Publications"
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
                 <a href="https://www.mdpi.com/1424-8220/18/2/581">[PDF]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-9')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-9')">[BibTeX]</a>
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-10')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-10')">[BibTeX]</a>
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-9" style="display:none;">
+            <div id="abstract-10" style="display:none;">
                 <p><i>This paper presents an end-to-end indoor air quality monitoring system enabling measurement of various gases and environmental parameters using a modular IoT architecture.</i></p>
             </div>
-            <pre id="bibtex-9" style="display:none;">
+            <pre id="bibtex-10" style="display:none;">
                 @article{Benammar2018ModularIoT,
                   title={A Modular IoT Platform for Real-Time Indoor Air Quality Monitoring},
                   author={Mohieddine Benammar, Abderrazak Abdaoui, Sabbir H.M. Ahmad, Farid Touati, Abdullah Kadri},
@@ -391,14 +391,14 @@ title: "Publications"
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
                 <a href="https://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf">[PDF]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-10')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-10')">[BibTeX]</a>
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-11')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-11')">[BibTeX]</a>
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-10" style="display:none;">
+            <div id="abstract-11" style="display:none;">
                 <p><i>This study proposes a novel IoT smart architecture for air quality monitoring, employing various technologies such as gas sensing, wireless sensor networks, and smart mobile devices.</i></p>
             </div>
-            <pre id="bibtex-10" style="display:none;">
+            <pre id="bibtex-11" style="display:none;">
                 @article{Ahmad2017RealTimeIAQ,
                   title={Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network},
                   author={H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin},
