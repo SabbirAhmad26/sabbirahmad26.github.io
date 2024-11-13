@@ -297,8 +297,8 @@ title: "Publications"
         <!-- Publication Image -->
         <td style="width:300px; padding:10px">
             <!-- Placeholder for image, if available -->
-            <a href="/images/Voltage_Control.png">
-                <img src="/images/Voltage_Control.png" alt="Publication Image" style="width:200px; height:130px; border-radius:5px"/>
+            <a href="/images/STATCOM_Controller.png">
+                <img src="/images/STATCOM_Controller.png" alt="Publication Image" style="width:200px; height:130px; border-radius:5px"/>
             </a>
         </td>
         <!-- Publication Details -->
@@ -328,12 +328,7 @@ title: "Publications"
     </tr>
 </table>
 
-<script src="/js/scripts.js"></script>
-
-* ** 
-* **Voltage control in distribution networks using current source converter STATCOM based on state feedback controller and Kalman filter** [<a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">PDF</a>],
-<br> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin,
-<br> **IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)**. 
+<script src="/js/scripts.js"></script> 
   
 ## Journal articles
 * **A Smart Rig for Calibration of Gas Sensor Nodes** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
