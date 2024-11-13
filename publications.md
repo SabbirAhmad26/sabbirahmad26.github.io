@@ -298,7 +298,7 @@ title: "Publications"
         <td style="width:300px; padding:10px">
             <!-- Placeholder for image, if available -->
             <a href="/images/STATCOM_Controller.png">
-                <img src="/images/STATCOM_Controller.png" alt="Publication Image" style="width:200px; height:130px; border-radius:5px"/>
+                <img src="/images/STATCOM_Controller.png" alt="Publication Image" style="width:150px; height:130px; border-radius:5px"/>
             </a>
         </td>
         <!-- Publication Details -->
