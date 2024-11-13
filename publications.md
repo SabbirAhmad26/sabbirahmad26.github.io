@@ -292,7 +292,6 @@ title: "Publications"
         </td>
     </tr>
 </table>
-</section>
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
     <tr>
         <!-- Publication Image -->
