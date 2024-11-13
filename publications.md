@@ -343,9 +343,9 @@ title: "Publications"
         </td>
         <!-- Publication Details -->
         <td width="67%" valign="top">
-            <b>Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network</b>
-            <br/> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin
-            <br/>International Journal of Internet of Things and Web Services, Vol. 2, pp. 7-13, 2017
+            <b>A Smart Rig for Calibration of Gas Sensor Nodes</b>
+            <br/> Mohieddine A. Benammar, H. M. Sabbir Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini
+            <br/>MDPI Sensors, Vol. 20, No. 8, 2020
             <br/>
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
@@ -373,48 +373,7 @@ title: "Publications"
         </td>
     </tr>
 </table>
-    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
-    <!-- Publication 1 -->
-    <tr>
-        <!-- Publication Image -->
-        <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/Smart_Calibration_Rig.png'>
-                <img width='200' src='/images/Smart_Calibration.rig.png' height='130' border='0' style='border-radius: 5px'/>
-            </a>
-        </td>
-        <!-- Publication Details -->
-        <td width="67%" valign="top">
-            <b>A Smart Rig for Calibration of Gas Sensor Nodes</b>
-            <br/> Mohieddine A. Benammar, Sabbir H.M. Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini
-            <br/>Sensors, Vol. 20, Issue 8, 2020
-            <br/>
-            <!-- Links to Paper, Code, etc. -->
-            <div class="publication-links">
-                <a href="https://www.mdpi.com/1424-8220/20/8/2341">[PDF]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-12')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-12')">[BibTeX]</a>
-            </div>
-            <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-12" style="display:none;">
-                <p><i>A smart calibration rig for IoT nodes for gas sensing aloowing for remote calibration.</i></p>
-            </div>
-            <pre id="bibtex-12" style="display:none;">
-                @article{Benammar2020SmartRig,
-                  title={A Smart Rig for Calibration of Gas Sensor Nodes},
-                  author={Mohieddine A. Benammar, Sabbir H.M. Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini},
-                  journal={Sensors},
-                  volume={20},
-                  number={8},
-                  pages={2341},
-                  year={2020},
-                  publisher={MDPI},
-                  doi={10.3390/s20082341}
-                }
-            </pre>
-        </td>
-    </tr>
-</table>
-
+    
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
     <!-- Publication 1 -->
     <tr>
