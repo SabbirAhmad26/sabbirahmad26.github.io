@@ -292,6 +292,44 @@ title: "Publications"
         </td>
     </tr>
 </table>
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+    <!-- Publication 1 -->
+    <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/STATCOM_Controller.png'>
+                <img width='200' src='/images/STATCOM_Controller.png' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column</b>
+            <br/> H M Sabbir Ahmad, Nader Meskin
+            <br/>IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT), 2020
+            <br/>
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://ieeexplore.ieee.org/document/9089577">[PDF]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-8')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-8')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-8" style="display:none;">
+                <p><i>Attack detection and isolation technique for sensor attacks on safety critical CPS.</i></p>
+            </div>
+            <pre id="bibtex-8" style="display:none;">
+                @inproceedings{Ahmad2020CyberAttack,
+                  title={Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column},
+                  author={H M Sabbir Ahmad and Nader Meskin},
+                  booktitle={IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)},
+                  year={2020},
+                  pages={1-6},
+                  doi={10.1109/ICIoT48696.2020.9089577}
+                }
+            </pre>
+        </td>
+    </tr>
+</table>
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
     <tr>
         <!-- Publication Image -->
