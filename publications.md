@@ -360,7 +360,7 @@ title: "Publications"
             <pre id="bibtex-12" style="display:none;">
                 @article{Benammar2020SmartRig,
                   title={A Smart Rig for Calibration of Gas Sensor Nodes},
-                  author={Mohieddine A. Benammar, Sabbir H.M. Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini},
+                  author={Mohieddine A. Benammar, H. M. Sabbir Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini},
                   journal={Sensors},
                   volume={20},
                   number={8},
