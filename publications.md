@@ -297,8 +297,8 @@ title: "Publications"
     <tr>
         <!-- Publication Image -->
         <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/Att_Detec_Mit.png'>
-                <img width='200' src='/images/Att_Detec_Mit.png' height='130' border='0' style='border-radius: 5px'/>
+            <a imageanchor='1' href='/images/STATCOM_Controller.png'>
+                <img width='200' src='/images/STATCOM_Controller.png' height='130' border='0' style='border-radius: 5px'/>
             </a>
         </td>
         <!-- Publication Details -->
