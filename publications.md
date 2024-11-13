@@ -318,13 +318,12 @@ title: "Publications"
                 <p><i>Attack detection and isolation technique for sensor attacks on safety critical CPS.</i></p>
             </div>
             <pre id="bibtex-8" style="display:none;">
-                @inproceedings{Ahmad2020CyberAttack,
-                  title={Cyber Attack Detection for a Nonlinear Binary Crude Oil Distillation Column},
-                  author={H M Sabbir Ahmad and Nader Meskin},
-                  booktitle={IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT)},
-                  year={2020},
-                  pages={1-6},
-                  doi={10.1109/ICIoT48696.2020.9089577}
+                @inproceedings{Ahmad2018VoltageControl,
+                  title={Voltage Control in Distribution Networks Using Current Source Converter STATCOM Based on State Feedback Controller and Kalman Filter},
+                  author={H M Sabbir Ahmad and Ahmed Massoud and Nader Meskin},
+                  booktitle={IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG)},
+                  year={2018},
+                  doi={10.1109/CPE.2018.8372544}
                 }
             </pre>
         </td>
