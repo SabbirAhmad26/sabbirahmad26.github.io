@@ -254,44 +254,7 @@ title: "Publications"
     </tr>
         <!-- Additional publications... -->
     </table>
-    <table style='border-width:0px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
-    <!-- Publication 1 -->
-    <tr>
-        <!-- Publication Image -->
-        <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/OAQM.png'>
-                <img width='200' src='/images/OAQM.png' height='130' border='0' style='border-radius: 5px'/>
-            </a>
-        </td>
-        <!-- Publication Details -->
-        <td width="67%" valign="top">
-            <b>Energy Efficient Real-time Outdoor Air Quality Monitoring System</b>
-            <br/> Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi 
-            <br/>2020 International Wireless Communications and Mobile Computing (IWCMC), Limassol, Cyprus, pp. 2170-2176<br/> 
-            <!-- Links to Paper, Code, etc. -->
-            <div class="publication-links">
-                <a href="https://ieeexplore.ieee.org/abstract/document/9148229">[PDF]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-7')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-7')">[BibTeX]</a>
-            </div>
-            <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-7" style="display:none;">
-                <p><i>Energy Efficient Real-time Outdoor Air Quality Monitoring System using wireless communication.</i></p>
-            </div>
-            <pre id="bibtex-7" style="display:none;">
-                @inproceedings{Abdaoui_2020,
-                  title={Energy Efficient Real-time Outdoor Air Quality Monitoring System},
-                  author={Abderrazak Abdaoui, H. M. Sabbir Ahmad, Hasan Tariq, Farid Touati, Adel Ben Mnaouer, Mohammed Al-Hitmi},
-                  booktitle={International Wireless Communications and Mobile Computing (IWCMC)},
-                  location={Limassol, Cyprus},
-                  year={2020},
-                  pages={pp. 2170-2176}
-                }
-            </pre>
-        </td>
-    </tr>
-</table>
-<table style='border-width:0px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
     <!-- Publication 1 -->
     <tr>
         <!-- Publication Image -->
@@ -330,7 +293,7 @@ title: "Publications"
     </tr>
 </table>
 </section>
-<table style="border:0px; border-collapse:collapse; width:100%">
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
     <tr>
         <!-- Publication Image -->
         <td style="width:300px; padding:10px">
