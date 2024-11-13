@@ -361,8 +361,7 @@ title: "Publications"
             <pre id="bibtex-11" style="display:none;">
                 @article{Ahmad2017RealTimeIAQ,
                   title={Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network},
-                  author={H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin},
-                  journal={International Journal of Internet of Things and Web Services},
+                  author={Benammar, MOHIEDDINE and Abdaoui, ABDERRAZAK and Ahmad, HS and Touati, FARID and Kadri, ABDULLAH},                     journal={International Journal of Internet of Things and Web Services},
                   volume={2},
                   pages={7-13},
                   year={2017},
