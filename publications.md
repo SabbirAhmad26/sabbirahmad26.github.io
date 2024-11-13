@@ -333,7 +333,7 @@ title: "Publications"
   
 ## Journal articles
 <section>
-  <table style='border-width:0px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
     <!-- Publication 1 -->
     <tr>
         <!-- Publication Image -->
