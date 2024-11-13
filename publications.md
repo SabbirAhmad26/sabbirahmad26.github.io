@@ -303,7 +303,7 @@ title: "Publications"
         </td>
         <!-- Publication Details -->
         <td width="67%" valign="top">
-            <b>oltage Control in Distribution Networks Using Current Source Converter STATCOM Based on State Feedback Controller and Kalman Filter</b>
+            <b>Voltage Control in Distribution Networks Using Current Source Converter STATCOM Based on State Feedback Controller and Kalman Filter</b>
             <br/> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin
             <br/>IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT), 2020
             <br/>
@@ -315,7 +315,7 @@ title: "Publications"
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
             <div id="abstract-9" style="display:none;">
-                <p><i>Attack detection and isolation technique for sensor attacks on safety critical CPS.</i></p>
+                <p><i>A state feedback control strategy with Kalman filtering for improved voltage regulation in distribution networks using STATCOMs.</i></p>
             </div>
             <pre id="bibtex-9" style="display:none;">
                 @inproceedings{Ahmad2018VoltageControl,
