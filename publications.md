@@ -146,6 +146,46 @@ title: "Publications"
         </tr>
         <!-- Additional publications... -->
     </table>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+    <!-- Publication 1 -->
+    <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/Safe_sequencing.png'>
+                <img width='200' src='/images/Safe_sequencing' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>Merging Control in Mixed Traffic with Safety Guarantees: A Safe Sequencing Policy with Optimal Motion Control</b>
+            <br/> Ehsan Sabouni, H.M. Sabbir Ahmad, Christos G. Cassandras, Wenchao Li
+            <br/>2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), pp. 4260-4265, September 2023
+            <br/>
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://ieeexplore.ieee.org/document/10422265">[PDF]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-14')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-14')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-14" style="display:none;">
+                <p><i>This paper presented safety gauranteed optimal control approach for Connected and Automated Vehicles in the presence of Human Driven Vehicles.</i></p>
+            </div>
+            <pre id="bibtex-14" style="display:none;">
+                @inproceedings{Sabouni2023MergingControl,
+                  title={Merging Control in Mixed Traffic with Safety Guarantees: A Safe Sequencing Policy with Optimal Motion Control},
+                  author={Ehsan Sabouni and H.M. Sabbir Ahmad and Christos G. Cassandras and Wenchao Li},
+                  booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)},
+                  pages={4260--4265},
+                  year={2023},
+                  organization={IEEE},
+                  doi={10.1109/ITSC54792.2023.10422265}
+                }
+            </pre>
+        </td>
+    </tr>
+</table>
+
   <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
         <!-- Publication 1 -->
         <tr>
