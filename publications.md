@@ -332,6 +332,88 @@ title: "Publications"
 <script src="/js/scripts.js"></script> 
   
 ## Journal articles
+<section>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+    <!-- Publication 1 -->
+    <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/IAQM.png'>
+                <img width='200' src='/images/IAQM.png' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>A Modular IoT Platform for Real-Time Indoor Air Quality Monitoring</b>
+            <br/> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir H.M. Ahmad, Farid Touati, Abdullah Kadri
+            <br/>MDPI Sensors, Vol. 18, Issue 2, 2018
+            <br/>
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://www.mdpi.com/1424-8220/18/2/581">[PDF]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-9')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-9')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-9" style="display:none;">
+                <p><i>This paper presents an end-to-end indoor air quality monitoring system enabling measurement of various gases and environmental parameters using a modular IoT architecture.</i></p>
+            </div>
+            <pre id="bibtex-9" style="display:none;">
+                @article{Benammar2018ModularIoT,
+                  title={A Modular IoT Platform for Real-Time Indoor Air Quality Monitoring},
+                  author={Mohieddine Benammar, Abderrazak Abdaoui, Sabbir H.M. Ahmad, Farid Touati, Abdullah Kadri},
+                  journal={Sensors},
+                  volume={18},
+                  number={2},
+                  pages={581},
+                  year={2018},
+                  publisher={MDPI}
+                }
+            </pre>
+        </td>
+    </tr>
+    </table>
+    <!-- Publication 2 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+  <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/WSN_Air_Quality_Monitoring.gif'>
+                <img width='200' src='/images/WSN_Air_Quality_Monitoring.gif' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network</b>
+            <br/> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin
+            <br/>International Journal of Internet of Things and Web Services, Vol. 2, pp. 7-13, 2017
+            <br/>
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf">[PDF]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-10')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-10')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-10" style="display:none;">
+                <p><i>This study proposes a novel IoT smart architecture for air quality monitoring, employing various technologies such as gas sensing, wireless sensor networks, and smart mobile devices.</i></p>
+            </div>
+            <pre id="bibtex-10" style="display:none;">
+                @article{Ahmad2017RealTimeIAQ,
+                  title={Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network},
+                  author={H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin},
+                  journal={International Journal of Internet of Things and Web Services},
+                  volume={2},
+                  pages={7-13},
+                  year={2017},
+                  publisher={IARAS}
+                }
+            </pre>
+        </td>
+    </tr>
+</table>
+
+</section>
 * **A modular IoT platform for real-time indoor air quality monitoring** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
   <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri,
   <br> **MDPI Sensors, Vol. 18, Issue 2, 2018**.
