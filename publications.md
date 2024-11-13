@@ -181,6 +181,41 @@ title: "Publications"
         </tr>
         <!-- Additional publications... -->
     </table>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+        <!-- Publication 1 -->
+        <tr>
+            <!-- Publication Image -->
+            <td style='width:300px;height:150px'>
+                <a imageanchor='1' href='/images/event_TAC.gif'>
+                    <img width='200' src='/images/event_TAC.gif' height='130' border='0' style='border-radius: 5px'/>
+                </a>
+            </td>
+            <!-- Publication Details -->
+            <td width="67%" valign="top">
+                <b>Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging</b>
+                <br/>Ehsan Sabouni, H M Sabbir Ahmad, Wei Xiao, Christos G. Cassandras, Wenchao Li<br/>2023 IEEE Conference on Control Technology and Applications (CCTA)<br/>
+                <!-- Links to Paper, Code, etc. -->
+              <div class="publication-links">
+                  <a href="https://ieeexplore.ieee.org/document/10253379">[Paper]</a> |
+                  <a href="javascript:void(0);" onclick="toggleAbstract('abstract-5')">[Abstract]</a> |
+                  <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-5')">[BibTeX]</a> |
+              </div>
+              <!-- Hidden Abstract and BibTeX sections -->
+              <div id="abstract-5" style="display:none;">
+                  <p><i>A Testbed for Event-Triggered Control using Control Barrier Functions.</i></p>
+              </div>
+              <pre id="bibtex-5" style="display:none;">
+                  @article{Ahmad_05,
+                    title={Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging},
+                    author={Ehsan Sabouni, H M Sabbir Ahmad, Wei Xiao, Christos G Cassandras, Wenchao Li},
+                    journal={IEEE Conference on Control Technology and Applications (CCTA)},
+                    year={2023}
+                  }
+              </pre>
+            </td>
+        </tr>
+        <!-- Additional publications... -->
+    </table>
   <table style='border-width:0px;border-color:rgb(255,255,255);border-collapse:collapse' cellspacing='0' bordercolor='#888' border='1'>
         <!-- Publication 1 -->
         <tr>
@@ -331,9 +366,6 @@ title: "Publications"
 <script src="/js/scripts.js"></script> 
   
 ## Journal articles
-* **A Smart Rig for Calibration of Gas Sensor Nodes** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
-  <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri,
-  <br> **MDPI Sensors, Vol. 8, Issue 8, 2020**.
 * **A modular IoT platform for real-time indoor air quality monitoring** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
   <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri,
   <br> **MDPI Sensors, Vol. 18, Issue 2, 2018**.
