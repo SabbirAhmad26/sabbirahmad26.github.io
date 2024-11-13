@@ -356,7 +356,7 @@ title: "Publications"
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
             <div id="abstract-10" style="display:none;">
-                <p><i>This paper presents an end-to-end indoor air quality monitoring system enabling measurement of various gases and environmental parameters using a modular IoT architecture.</i></p>
+                <p><i>A MOdular End-to-End Platform for real time large scale air quality monitoring.</i></p>
             </div>
             <pre id="bibtex-10" style="display:none;">
                 @article{Benammar2018ModularIoT,
