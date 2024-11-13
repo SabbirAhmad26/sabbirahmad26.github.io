@@ -305,8 +305,7 @@ title: "Publications"
         <td width="67%" valign="top">
             <b>Voltage Control in Distribution Networks Using Current Source Converter STATCOM Based on State Feedback Controller and Kalman Filter</b>
             <br/> H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin
-            <br/>IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT), 2020
-            <br/>
+            <br/>IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)<br/>
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
                 <a href="https://ieeexplore.ieee.org/document/9089577">[PDF]</a> |
@@ -329,42 +328,7 @@ title: "Publications"
         </td>
     </tr>
 </table>
-    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
-    <tr>
-        <!-- Publication Image -->
-        <td style="width:300px; padding:10px">
-            <!-- Placeholder for image, if available -->
-            <a href="/images/STATCOM_Controller.png">
-                <img src="/images/STATCOM_Controller.png" alt="Publication Image" style="width:150px; height:130px; border-radius:5px"/>
-            </a>
-        </td>
-        <!-- Publication Details -->
-        <td style="padding:10px; vertical-align:top">
-            <b>Voltage Control in Distribution Networks Using Current Source Converter STATCOM Based on State Feedback Controller and Kalman Filter</b><br/>
-            H M Sabbir Ahmad, Ahmed Massoud, Nader Meskin<br/>
-            IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG 2018)<br/>
-            <div class="publication-links" style="margin-top:5px;">
-                <a href="https://ieeexplore.ieee.org/abstract/document/8372544/" target="_blank">[PDF]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-9')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-9')">[BibTeX]</a>
-            </div>
-            <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-9" style="display:none; margin-top:10px;">
-                <p><i>A state feedback control strategy with Kalman filtering for improved voltage regulation in distribution networks using STATCOMs.</i></p>
-            </div>
-            <pre id="bibtex-9" style="display:none; margin-top:10px;">
-                @inproceedings{Ahmad2018VoltageControl,
-                  title={Voltage Control in Distribution Networks Using Current Source Converter STATCOM Based on State Feedback Controller and Kalman Filter},
-                  author={H M Sabbir Ahmad and Ahmed Massoud and Nader Meskin},
-                  booktitle={IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG)},
-                  year={2018},
-                  doi={10.1109/CPE.2018.8372544}
-                }
-            </pre>
-        </td>
-    </tr>
-</table>
-
+</section>  
 <script src="/js/scripts.js"></script> 
   
 ## Journal articles
