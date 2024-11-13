@@ -333,39 +333,41 @@ title: "Publications"
   
 ## Journal articles
 <section>
-    <!-- Publication 2 -->
-    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+          <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
   <tr>
         <!-- Publication Image -->
         <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/IAQM_2.png'>
-                <img width='200' src='/images/IAQM_2.png' height='130' border='0' style='border-radius: 5px'/>
+            <a imageanchor='1' href='/images/Smart_Calibration_Rig.png'>
+                <img width='200' src='/images/Smart_Calibration_Rig.png' height='130' border='0' style='border-radius: 5px'/>
             </a>
         </td>
         <!-- Publication Details -->
         <td width="67%" valign="top">
-            <b>Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network</b>
-            <br/> Mohieddine A. Benammar, Abderrazak Abdaoui, H. M. Sabbir Ahmad, Farid Touati, Abdullah Kadri
-            <br/>International Journal of Internet of Things and Web Services, Vol. 2, pp. 7-13, 2017
+            <b>A Smart Rig for Calibration of Gas Sensor Nodes</b>
+            <br/> Mohieddine A. Benammar, H. M. Sabbir Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini
+            <br/>MDPI Sensors, Vol. 20, No. 8, 2020
             <br/>
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
                 <a href="https://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf">[PDF]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-11')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-11')">[BibTeX]</a>
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-12')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-12')">[BibTeX]</a>
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-11" style="display:none;">
-                <p><i>A novel IoT smart architecture for air quality monitoring, employing various technologies such as gas sensing, wireless sensor networks,edge computing and smart mobile devices.</i></p>
+            <div id="abstract-12" style="display:none;">
+                <p><i>A smart calibration rig for IoT nodes for gas sensing aloowing for remote calibration.</i></p>
             </div>
-            <pre id="bibtex-11" style="display:none;">
-                @article{Ahmad2017RealTimeIAQ,
-                  title={Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network},
-                  author={Benammar, MOHIEDDINE and Abdaoui, ABDERRAZAK and Ahmad, HS and Touati, FARID and Kadri, ABDULLAH},                     journal={International Journal of Internet of Things and Web Services},
-                  volume={2},
-                  pages={7-13},
-                  year={2017},
-                  publisher={IARAS}
+            <pre id="bibtex-12" style="display:none;">
+                @article{Benammar2020SmartRig,
+                  title={A Smart Rig for Calibration of Gas Sensor Nodes},
+                  author={Mohieddine A. Benammar, H. M. Sabbir Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini},
+                  journal={Sensors},
+                  volume={20},
+                  number={8},
+                  pages={2341},
+                  year={2020},
+                  publisher={MDPI},
+                  doi={10.3390/s20082341}
                 }
             </pre>
         </td>
@@ -411,41 +413,39 @@ title: "Publications"
         </td>
     </tr>
     </table>
-        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+  <!-- Publication 2 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
   <tr>
         <!-- Publication Image -->
         <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/Smart_Calibration_Rig.png'>
-                <img width='200' src='/images/Smart_Calibration_Rig.png' height='130' border='0' style='border-radius: 5px'/>
+            <a imageanchor='1' href='/images/IAQM_2.png'>
+                <img width='200' src='/images/IAQM_2.png' height='130' border='0' style='border-radius: 5px'/>
             </a>
         </td>
         <!-- Publication Details -->
         <td width="67%" valign="top">
-            <b>A Smart Rig for Calibration of Gas Sensor Nodes</b>
-            <br/> Mohieddine A. Benammar, H. M. Sabbir Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini
-            <br/>MDPI Sensors, Vol. 20, No. 8, 2020
+            <b>Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network</b>
+            <br/> Mohieddine A. Benammar, Abderrazak Abdaoui, H. M. Sabbir Ahmad, Farid Touati, Abdullah Kadri
+            <br/>International Journal of Internet of Things and Web Services, Vol. 2, pp. 7-13, 2017
             <br/>
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
                 <a href="https://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf">[PDF]</a> |
-                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-12')">[Abstract]</a> |
-                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-12')">[BibTeX]</a>
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-11')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-11')">[BibTeX]</a>
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
-            <div id="abstract-12" style="display:none;">
-                <p><i>A smart calibration rig for IoT nodes for gas sensing aloowing for remote calibration.</i></p>
+            <div id="abstract-11" style="display:none;">
+                <p><i>A novel IoT smart architecture for air quality monitoring, employing various technologies such as gas sensing, wireless sensor networks,edge computing and smart mobile devices.</i></p>
             </div>
-            <pre id="bibtex-12" style="display:none;">
-                @article{Benammar2020SmartRig,
-                  title={A Smart Rig for Calibration of Gas Sensor Nodes},
-                  author={Mohieddine A. Benammar, H. M. Sabbir Ahmad, Abderrazak Abdaoui, Hasan Tariq, Farid Touati, Mohammed Al-Hitmi, Damiano Crescini},
-                  journal={Sensors},
-                  volume={20},
-                  number={8},
-                  pages={2341},
-                  year={2020},
-                  publisher={MDPI},
-                  doi={10.3390/s20082341}
+            <pre id="bibtex-11" style="display:none;">
+                @article{Ahmad2017RealTimeIAQ,
+                  title={Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network},
+                  author={Benammar, MOHIEDDINE and Abdaoui, ABDERRAZAK and Ahmad, HS and Touati, FARID and Kadri, ABDULLAH},                     journal={International Journal of Internet of Things and Web Services},
+                  volume={2},
+                  pages={7-13},
+                  year={2017},
+                  publisher={IARAS}
                 }
             </pre>
         </td>
@@ -454,12 +454,85 @@ title: "Publications"
 </section>
 
 ## Book chapters
-* **Cyber-Attack Detection for a Crude Oil Distillation Column** [<a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13" target="top">Book link</a>],
-  <br> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin,
-  <br> **Security and Resilience in Cyber-Physical Systems, pp 323–346, 2022.** 
-* **Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator** [<a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14" target="top">Book link</a>],
-  ,
-  <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin,
-  <br> **Renewable Power for Sustainable Growth pp 143–154, 2021**.
+<section>
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+    <!-- Publication 1 -->
+    <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/Cyber_Attack_Detection_Book.gif'>
+                <img width='200' src='/images/Cyber_Attack_Detection_Book.gif' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>Cyber-Attack Detection for a Crude Oil Distillation Column</b>
+            <br/> H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin
+            <br/>In <i>Security and Resilience in Cyber-Physical Systems</i>, pp. 323–346, 2022
+            <br/>
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13">[Book Link]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-12')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-12')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-12" style="display:none;">
+                <p><i>This chapter focuses on the development of cyber-attack detection techniques for a cyber-physical distillation column, highlighting the importance of securing industrial control systems against malicious attacks.</i></p>
+            </div>
+            <pre id="bibtex-12" style="display:none;">
+                @incollection{Ahmad2022CyberAttackBook,
+                  title={Cyber-Attack Detection for a Crude Oil Distillation Column},
+                  author={H M Sabbir Ahmad, Mohammad Noorizadeh, Nader Meskin},
+                  booktitle={Security and Resilience in Cyber-Physical Systems},
+                  pages={323--346},
+                  year={2022},
+                  publisher={Springer},
+                  doi={10.1007/978-3-030-97166-3_13}
+                }
+            </pre>
+        </td>
+    </tr>
+    </table>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
+    <!-- Publication 2 -->
+    <tr>
+        <!-- Publication Image -->
+        <td style='width:300px;height:150px'>
+            <a imageanchor='1' href='/images/Rotor_Flux_Control_Book.gif'>
+                <img width='200' src='/images/Rotor_Flux_Control_Book.gif' height='130' border='0' style='border-radius: 5px'/>
+            </a>
+        </td>
+        <!-- Publication Details -->
+        <td width="67%" valign="top">
+            <b>Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator</b>
+            <br/> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin
+            <br/>In <i>Renewable Power for Sustainable Growth</i>, pp. 143–154, 2021
+            <br/>
+            <!-- Links to Paper, Code, etc. -->
+            <div class="publication-links">
+                <a href="https://link.springer.com/chapter/10.1007/978-981-33-4080-0_14">[Book Link]</a> |
+                <a href="javascript:void(0);" onclick="toggleAbstract('abstract-13')">[Abstract]</a> |
+                <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-13')">[BibTeX]</a>
+            </div>
+            <!-- Hidden Abstract and BibTeX sections -->
+            <div id="abstract-13" style="display:none;">
+                <p><i>This chapter presents the implementation of rotor flux-oriented control for controlling the rotational speed and torque of a three-phase squirrel cage induction motor, utilizing sliding mode controllers and rotor flux estimation techniques.</i></p>
+            </div>
+            <pre id="bibtex-13" style="display:none;">
+                @incollection{Ahmad2021RotorFluxBook,
+                  title={Rotor Flux-Oriented Control of Three-Phase Induction Motor Using Sliding Mode Controller and Rotor Flux Estimator},
+                  author={H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin},
+                  booktitle={Renewable Power for Sustainable Growth},
+                  pages={143--154},
+                  year={2021},
+                  publisher={Springer},
+                  doi={10.1007/978-981-33-4080-0_14}
+                }
+            </pre>
+        </td>
+    </tr>
+</table>
+</section>
    
 
