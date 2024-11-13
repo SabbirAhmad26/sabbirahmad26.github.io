@@ -338,8 +338,8 @@ title: "Publications"
     <tr>
         <!-- Publication Image -->
         <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/Smart_Rig_Calibration.png'>
-                <img width='200' src='/images/Smart_Rig_Calibration.png' height='130' border='0' style='border-radius: 5px'/>
+            <a imageanchor='1' href='/images/Smart_Calibration_Rig.png'>
+                <img width='200' src='/images/Smart_Calibration.Rig.png' height='130' border='0' style='border-radius: 5px'/>
             </a>
         </td>
         <!-- Publication Details -->
