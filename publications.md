@@ -356,7 +356,7 @@ title: "Publications"
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
             <div id="abstract-10" style="display:none;">
-                <p><i>A MOdular End-to-End Platform for real time large scale air quality monitoring.</i></p>
+                <p><i>A Modular End-to-End Platform IoT based solution using wireless sensor nodes for real time large scale air quality monitoring.</i></p>
             </div>
             <pre id="bibtex-10" style="display:none;">
                 @article{Benammar2018ModularIoT,
@@ -378,8 +378,8 @@ title: "Publications"
   <tr>
         <!-- Publication Image -->
         <td style='width:300px;height:150px'>
-            <a imageanchor='1' href='/images/WSN_Air_Quality_Monitoring.gif'>
-                <img width='200' src='/images/WSN_Air_Quality_Monitoring.gif' height='130' border='0' style='border-radius: 5px'/>
+            <a imageanchor='1' href='/images/IAQM_2.png'>
+                <img width='200' src='/images/IAQM_2.png' height='130' border='0' style='border-radius: 5px'/>
             </a>
         </td>
         <!-- Publication Details -->
@@ -396,7 +396,7 @@ title: "Publications"
             </div>
             <!-- Hidden Abstract and BibTeX sections -->
             <div id="abstract-11" style="display:none;">
-                <p><i>This study proposes a novel IoT smart architecture for air quality monitoring, employing various technologies such as gas sensing, wireless sensor networks, and smart mobile devices.</i></p>
+                <p><i>A novel IoT smart architecture for air quality monitoring, employing various technologies such as gas sensing, wireless sensor networks,edge computing and smart mobile devices.</i></p>
             </div>
             <pre id="bibtex-11" style="display:none;">
                 @article{Ahmad2017RealTimeIAQ,
@@ -412,15 +412,7 @@ title: "Publications"
         </td>
     </tr>
 </table>
-
 </section>
-* **A modular IoT platform for real-time indoor air quality monitoring** [<a href="https://www.mdpi.com/1424-8220/20/8/2341" target="top">PDF</a>],
-  <br> Mohieddine Benammar, Abderrazak Abdaoui, Sabbir HM Ahmad, Farid Touati, Abdullah Kadri,
-  <br> **MDPI Sensors, Vol. 18, Issue 2, 2018**.
-* **Real-Time Indoor Air Quality Monitoring Through Wireless Sensor Network** [<a href="https://www.iaras.org/iaras/filedownloads/ijitws/2017/022-0002(2017).pdf" target="top">PDF</a>],
-  ,
-  <br> H M Sabbir Ahmad, Mohammad Meraj, Atif Iqbal, Nader Meskin,
-  <br> **International Journal of Internet of Things and Web Services, Vol. 2, pp. 7-13, 2017**. 
 
 ## Book chapters
 * **Cyber-Attack Detection for a Crude Oil Distillation Column** [<a href="https://link.springer.com/chapter/10.1007/978-3-030-97166-3_13" target="top">Book link</a>],
