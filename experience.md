@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,25 +5,25 @@
 </head>
 <body>
 
-    <h2>Work Experience</h2>
+        <h1>Research Assistant, Qatar University, Doha, Qatar (March 2016 – December 2017)</h1>
 
-    <h3>Research Assistant, Qatar University, Doha, Qatar (March 2016 – December 2017)</h3>
-    <p>
-        <strong>NPRP Project title:</strong> Towards Safe Indoor Air Quality in View of the On-Going Massive Development in the State of Qatar.
-    </p>
+    <h2>NPRP Project Title: Intrusion Detection System (IDS) for Industrial Control Systems</h2>
+    <p>The project was funded under the Qatar National Priorities Research Program (NPRP) from the Qatar Foundation.</p>
+
+    <h3>Work Objectives:</h3>
     <ul>
-        <li>Worked on cybersecurity of Industrial Control Systems, designing frameworks for cyber-attack modeling and analysis for Cyber-Physical Hybrid Systems.</li>
-        <li>Developed a virtual Hardware-In-The-Loop (HIL) SCADA control system testbed using Siemens Industrial Automation hardware for a Cyber-Physical Reverse Osmosis (RO) plant simulator.</li>
-        <li>Proposed and implemented online and offline attack detection, diagnosis, and mitigation techniques for a virtual HIL RO plant simulator.</li>
+        <li>Design a novel framework for cyber-attack modeling and analysis for Cyber-Physical Hybrid Systems.</li>
+        <li>Design a virtual Hardware-In-The-Loop (HIL) SCADA control system testbed using Siemens Industrial Automation hardware and software for a Cyber-Physical Reverse Osmosis (RO) plant simulator.</li>
+        <li>Propose and implement online (PLC-based) and offline, central, and distributed attack detection, diagnosis, and mitigation techniques for a virtual HIL Reverse Osmosis (RO) plant simulator.</li>
     </ul>
 
-    <h3>Graduate Development Engineer, EDWARDS, England, UK (August 2014 – August 2015)</h3>
-    <p>Electronics (Sensors, instrumentation, and data acquisition):</p>
+    <h3>Technical Skills:</h3>
+    <p><strong>Programming languages:</strong> Python, Matlab, Simulink, and IEC 61131-3 languages, including LAD, FBD, and SCL.</p>
     <ul>
-        <li>Worked with strain sensors, thermocouples, IR sensors, tachometers, accelerometers, and other sensor types for monitoring applications.</li>
-        <li>Experienced in National Instruments signal conditioning modules for measuring strain, pressure, vibration, and temperature.</li>
-        <li>Designed low voltage analog circuits using Cadence Orcad and created control and monitoring applications with hard and soft real-time constraints.</li>
-        <li>Gained experience in various SDLCs, including Agile and Waterfall methodologies.</li>
+        <li>Implemented prediction-correction filters for nonlinear systems, namely Extended Kalman Filter and Unscented Kalman Filter, using SCL for Siemens PLCs.</li>
+        <li>Designed and implemented central SCADA Server-based attack detection techniques for ICS of Cyber-Physical Hybrid systems in Python.</li>
+        <li>Worked with Siemens S7-1200 and S7-1500 PLCs, ET 200SP Distributed I/Os (including Analog and Digital input and output modules); gained experience with the TIA Portal.</li>
+        <li>Acquired knowledge of industrial communication standards, namely Profinet and Profibus.</li>
     </ul>
 
     <h3>Junior Hardware Developer, EDWARDS, England, UK (September 2012 – October 2013)</h3>
