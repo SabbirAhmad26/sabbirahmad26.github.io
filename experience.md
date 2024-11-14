@@ -46,6 +46,26 @@
         <li>Designed Labview software for automatic lab-based wireless calibration of sensor nodes against temperature, humidity, sensitivity drift, and cross-sensitivity; key components of the software included a wireless communication stack, CSV file handler, and optimal data fitting algorithm using the least squared error (LSE) algorithm.</li>
     </ul>
 
+    <h2>Graduate Development Engineer, EDWARDS, England, UK (August 2014 – August 2015)</h2>
+
+    <h3>Electronics (Sensors, Instrumentation, and Data Acquisition):</h3>
+    <ul>
+        <li>Gained experience working with half and full bridge strain sensors, thermocouples, IR sensors, tachometers, hall sensors, accelerometers from Piezoelectric, and proximity sensors from Bently Nevada.</li>
+        <li>Worked with National Instruments’ family of signal conditioning modules for strain, pressure, vibration, and temperature sensor monitoring, and embedded Windows 7 cDAQ controllers with Quad-core Atom processors from National Instruments for data acquisition.</li>
+    </ul>
+
+    <h3>Software Design:</h3>
+    <ul>
+        <li>Gained experience with the Agile software development life cycle (SDLC).</li>
+    </ul>
+
+    <h3>Labview:</h3>
+    <ul>
+        <li>Familiarity with VISA, DAQmx, and the Sound and Vibration library; implemented the MODBUS serial communication protocol handler.</li>
+        <li>Experience programming National Instruments’ Windows HMIs.</li>
+        <li>Designed multitier software applications using design patterns including Master-Slave, Producer-Consumer, Event-Based, and State Machines.</li>
+    </ul>
+
     <h3>Junior Hardware Developer, EDWARDS, England, UK (September 2012 – October 2013)</h3>
     <p>Electronics (Low voltage embedded system design):</p>
     <ul>
