@@ -57,10 +57,6 @@
     <h3>Software Design:</h3>
     <ul>
         <li>Gained experience with the Agile software development life cycle (SDLC).</li>
-    </ul>
-
-    <h3>Labview:</h3>
-    <ul>
         <li>Familiarity with VISA, DAQmx, and the Sound and Vibration library; implemented the MODBUS serial communication protocol handler.</li>
         <li>Experience programming National Instruments’ Windows HMIs.</li>
         <li>Designed multitier software applications using design patterns including Master-Slave, Producer-Consumer, Event-Based, and State Machines.</li>
