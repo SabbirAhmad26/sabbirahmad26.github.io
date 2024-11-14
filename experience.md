@@ -78,11 +78,11 @@
     <ul>
         <li>Baremetal firmware design in MPLAB, Atmel Studio, Keil uVision, and Codewarrior IDEs; familiarity with microcontroller peripherals such as timers, WDTs, interrupts, FLASH, EEPROM, SRAM, ADC, DAC, comparators, PWM module, UART, USART, SPI, and I2C; and implementation of industrial protocol handlers for MODBUS serial communication.</li>
         <li>Implementation of scheduling algorithms: First Come First Serve, Fixed Priority Preemptive Scheduling, Shortest Job First, Rate Monotonic, Round Robin, and Earliest Deadline First. Familiarity with CppUnit and Unit++ C++ based unit testing frameworks.</li>
+
+    <li><u><i>Microsoft Visual C#.NET:</i></u> WinForm and WPF-based GUI design; familiarity with Microsoft’s concurrent programming technologies and Nunit testing framework (unit testing patterns including AAA, State-based pattern, Interaction-based pattern, Exception-testing pattern, and Mock Objects pattern). Implemented industrial protocol handlers for EtherCAT and MODBUS.</li>
+
+    <li><u><i>Java:</i></u> Software design experience in Eclipse IDE; familiar with concurrent programming technologies; and Android application design experience using Android SDK.</li>
     </ul>
-
-    <p><u><i>Microsoft Visual C#.NET:</i></u> WinForm and WPF-based GUI design; familiarity with Microsoft’s concurrent programming technologies and Nunit testing framework (unit testing patterns including AAA, State-based pattern, Interaction-based pattern, Exception-testing pattern, and Mock Objects pattern). Implemented industrial protocol handlers for EtherCAT and MODBUS.</p>
-
-    <p><u><i>Java:</i></u> Software design experience in Eclipse IDE; familiar with concurrent programming technologies; and Android application design experience using Android SDK.</p>
 
 
 
