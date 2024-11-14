@@ -5,12 +5,12 @@
 </head>
 <body>
 
-        <h1>Research Assistant, Qatar University, Doha, Qatar (March 2016 – December 2017)</h1>
+        <h2>Research Assistant, Qatar University, Doha, Qatar (March 2016 – December 2017)</h2>
 
-    <h2>NPRP Project Title: Intrusion Detection System (IDS) for Industrial Control Systems</h2>
+    <h3>NPRP Project Title: Intrusion Detection System (IDS) for Industrial Control Systems</h3>
     <p>The project was funded under the Qatar National Priorities Research Program (NPRP) from the Qatar Foundation.</p>
 
-    <h3>Work Objectives:</h3>
+    <h4>Work Objectives:</h4>
     <ul>
         <li>Design a novel framework for cyber-attack modeling and analysis for Cyber-Physical Hybrid Systems.</li>
         <li>Design a virtual Hardware-In-The-Loop (HIL) SCADA control system testbed using Siemens Industrial Automation hardware and software for a Cyber-Physical Reverse Osmosis (RO) plant simulator.</li>
@@ -24,6 +24,26 @@
         <li>Designed and implemented central SCADA Server-based attack detection techniques for ICS of Cyber-Physical Hybrid systems in Python.</li>
         <li>Worked with Siemens S7-1200 and S7-1500 PLCs, ET 200SP Distributed I/Os (including Analog and Digital input and output modules); gained experience with the TIA Portal.</li>
         <li>Acquired knowledge of industrial communication standards, namely Profinet and Profibus.</li>
+    </ul>
+
+    
+    <h2>Research Assistant, Qatar University, Doha, Qatar (March 2016 – December 2017)</h2>
+
+    <h3>NPRP Project Title: Towards Safe Indoor Air Quality in View of the On-Going Massive Development in the State of Qatar</h3>
+
+    <h4>Technical Skills:</h4>
+
+    <h5>Electronics (Sensors, Sensor Calibration, and Analog Instrumentation) and Embedded Hardware Design:</h5>
+    <ul>
+        <li>Worked with three-electrode and four-electrode electrochemical and NDIR gas sensors for CO, CO<sub>2</sub>, NO, NO<sub>2</sub>, and O<sub>3</sub> sensing and designed analog front-end circuitry for these sensors.</li>
+        <li>Designed an automated calibration rig with features like feedback temperature control, controlled dispensation of gas mixtures, and Zigbee (IEEE 802.15.4) communication, for wirelessly calibrating sensor nodes against sensitivity drift, temperature, and cross-sensitivity.</li>
+        <li>Implemented STAR and Mesh Zigbee-based wireless sensor networks (WSN) for indoor air quality sensing using gas sensor nodes, routers, and a gateway node.</li>
+    </ul>
+
+    <h5>Embedded and PC-Based Software Design (Languages Used: C++, Labview):</h5>
+    <ul>
+        <li>Created bare-metal firmware for wireless sensor nodes equipped with ATMEL microcontrollers in ATMEL STUDIO using C++.</li>
+        <li>Designed Labview software for automatic lab-based wireless calibration of sensor nodes against temperature, humidity, sensitivity drift, and cross-sensitivity; key components of the software included a wireless communication stack, CSV file handler, and optimal data fitting algorithm using the least squared error (LSE) algorithm.</li>
     </ul>
 
     <h3>Junior Hardware Developer, EDWARDS, England, UK (September 2012 – October 2013)</h3>
