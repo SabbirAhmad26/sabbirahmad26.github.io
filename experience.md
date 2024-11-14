@@ -66,70 +66,29 @@
         <li>Designed multitier software applications using design patterns including Master-Slave, Producer-Consumer, Event-Based, and State Machines.</li>
     </ul>
 
-    <h3>Junior Hardware Developer, EDWARDS, England, UK (September 2012 – October 2013)</h3>
-    <p>Electronics (Low voltage embedded system design):</p>
+    <h2>Junior Hardware Developer, EDWARDS, England, UK (September 2012 – October 2013)</h2>
+
+    <h3>Electronics (Low Voltage Embedded System Design):</h3>
     <ul>
-        <li>Worked on mixed-signal high-frequency circuit design, and power electronics components, including voltage regulators, inverters, and converters.</li>
-        <li>Designed digital circuits, including both combinational and sequential logic.</li>
-        <li>Experienced with microcontrollers, DSPs, CPLDs, and FPGAs, and gained familiarity with industrial communication standards like RS232, RS485, CAN, and Ethernet.</li>
+        <li>Low voltage mixed signal SCADA RTU hardware design in Cadence Orcad and ISIS Proteus.</li>
+        <li>Embedded circuit design using microcontrollers from ARM, Microchip, Freescale, and Analog Devices.</li>
+        <li>Worked with industrially used ICDs: PicKit3, Keil ULINK2, and UMultilink.</li>
+        <li>Familiarity with Bluetooth network stack; hardware design experience with Microchip’s Bluetooth RS232 and RS485 transceivers.</li>
     </ul>
 
-    <h2>Technical Skills</h2>
+    <h3>Embedded Firmware and PC-Based Software Development:</h3>
 
-    <h3>Programming Languages:</h3>
+    <p><u><i>Embedded Programming in C/C++:</i></u></p>
     <ul>
-        <li>Python, Matlab, Simulink, and IEC 61131-3 languages (LAD, FBD, SCL)</li>
+        <li>Baremetal firmware design in MPLAB, Atmel Studio, Keil uVision, and Codewarrior IDEs; familiarity with microcontroller peripherals such as timers, WDTs, interrupts, FLASH, EEPROM, SRAM, ADC, DAC, comparators, PWM module, UART, USART, SPI, and I2C; and implementation of industrial protocol handlers for MODBUS serial communication.</li>
+        <li>Implementation of scheduling algorithms: First Come First Serve, Fixed Priority Preemptive Scheduling, Shortest Job First, Rate Monotonic, Round Robin, and Earliest Deadline First. Familiarity with CppUnit and Unit++ C++ based unit testing frameworks.</li>
     </ul>
 
-    <h3>Electronics (Sensors, Calibration, and Instrumentation)</h3>
-    <ul>
-        <li>Worked with electrochemical and NDIR gas sensors for detecting CO, CO2, NO, NO2, and O3.</li>
-        <li>Designed automated calibration rigs with features like temperature control and Zigbee communication for wireless sensor calibration.</li>
-        <li>Implemented STAR and Mesh Zigbee-based wireless sensor networks (WSN) for indoor air quality sensing.</li>
-    </ul>
+    <p><u><i>Microsoft Visual C#.NET:</i></u> WinForm and WPF-based GUI design; familiarity with Microsoft’s concurrent programming technologies and Nunit testing framework (unit testing patterns including AAA, State-based pattern, Interaction-based pattern, Exception-testing pattern, and Mock Objects pattern). Implemented industrial protocol handlers for EtherCAT and MODBUS.</p>
 
-    <h3>Embedded Systems and Software Design</h3>
-    <p>Languages used: C++, Labview</p>
-    <ul>
-        <li>Created bare-metal firmware for wireless sensor nodes using ATMEL microcontrollers.</li>
-        <li>Developed Labview software for lab-based wireless calibration of sensor nodes, incorporating CSV file handling and optimal data fitting algorithms.</li>
-    </ul>
+    <p><u><i>Java:</i></u> Software design experience in Eclipse IDE; familiar with concurrent programming technologies; and Android application design experience using Android SDK.</p>
 
-    <h3>Software Development</h3>
-    <p>.NET Framework, Visual C# .NET, Visual C++.NET</p>
-    <ul>
-        <li>Worked with Visual Studio 2013 and .NET 4.5.1, designed GUIs for SCADA RTUs, and implemented protocol handlers including Profibus and MODBUS.</li>
-        <li>Familiar with Resharper, Visual Studio Nunit, and various unit testing patterns.</li>
-    </ul>
 
-    <h3>Labview 2014</h3>
-    <ul>
-        <li>Designed control and monitoring applications using design patterns like Master-Slave, Producer-Consumer, and Event-based State Machines.</li>
-        <li>Experienced in Labview VISA, DAQmx, and Sound and Vibration libraries.</li>
-    </ul>
-
-    <h3>Java</h3>
-    <ul>
-        <li>Worked with Eclipse IDE, implemented Java-based concurrent applications, and developed MODBUS RTU protocol handlers.</li>
-    </ul>
-
-    <h3>Firmware Development</h3>
-    <ul>
-        <li>Proficient in C/C++, with experience in developing embedded applications using IDEs like Microchip, Atmel Studio, Keil uVision, and Codewarrior.</li>
-        <li>Implemented communication protocols such as MODBUS RTU and CAN using C and C++.</li>
-    </ul>
-
-    <h3>Other Skills</h3>
-    <ul>
-        <li>Familiarity with Zigbee Wi-Fi modules and Microchip’s Bluetooth modules.</li>
-        <li>Experience with scheduling algorithms like round-robin and rate-monotonic for multitasking embedded applications.</li>
-    </ul>
-
-    <h2>Certifications</h2>
-    <ul>
-        <li>Advanced PLC Paradigms (PLC IV)</li>
-        <li>Machine Learning A-Z™: Hands-On Python & R In Data Science</li>
-    </ul>
 
 </body>
 </html>
