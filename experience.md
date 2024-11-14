@@ -33,14 +33,14 @@
 
     <h4>Technical Skills:</h4>
 
-    <h5>Electronics (Sensors, Sensor Calibration, and Analog Instrumentation) and Embedded Hardware Design:</h5>
-    <ul>
+    <p><u><i>Electronics (Sensors, Sensor Calibration, and Analog Instrumentation) and Embedded Hardware Design:</i></u></p>
+      <ul>
         <li>Worked with three-electrode and four-electrode electrochemical and NDIR gas sensors for CO, CO<sub>2</sub>, NO, NO<sub>2</sub>, and O<sub>3</sub> sensing and designed analog front-end circuitry for these sensors.</li>
         <li>Designed an automated calibration rig with features like feedback temperature control, controlled dispensation of gas mixtures, and Zigbee (IEEE 802.15.4) communication, for wirelessly calibrating sensor nodes against sensitivity drift, temperature, and cross-sensitivity.</li>
         <li>Implemented STAR and Mesh Zigbee-based wireless sensor networks (WSN) for indoor air quality sensing using gas sensor nodes, routers, and a gateway node.</li>
     </ul>
 
-    <h5>Embedded and PC-Based Software Design (Languages Used: C++, Labview):</h5>
+    <p><u><i>Embedded and PC-Based Software Design (Languages Used: C++, Labview):</i></u></p>
     <ul>
         <li>Created bare-metal firmware for wireless sensor nodes equipped with ATMEL microcontrollers in ATMEL STUDIO using C++.</li>
         <li>Designed Labview software for automatic lab-based wireless calibration of sensor nodes against temperature, humidity, sensitivity drift, and cross-sensitivity; key components of the software included a wireless communication stack, CSV file handler, and optimal data fitting algorithm using the least squared error (LSE) algorithm.</li>
