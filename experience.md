@@ -66,7 +66,7 @@
 
     <h3>Electronics (Low Voltage Embedded System Design):</h3>
     <ul>
-        <li>Low voltage mixed signal SCADA RTU hardware design in Cadence Orcad and ISIS Proteus.</li>
+        <li>Low voltage mixed signal SCADA RTU hardware design in Cadence Orcad and Proteus.</li>
         <li>Embedded circuit design using microcontrollers from ARM, Microchip, Freescale, and Analog Devices.</li>
         <li>Worked with industrially used ICDs: PicKit3, Keil ULINK2, and UMultilink.</li>
         <li>Familiarity with Bluetooth network stack; hardware design experience with Microchip’s Bluetooth RS232 and RS485 transceivers.</li>
