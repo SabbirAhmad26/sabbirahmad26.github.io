@@ -5,7 +5,7 @@
 </head>
 <body>
 
-        <h2>Research Assistant, Qatar University, Doha, Qatar (March 2016 – December 2017)</h2>
+        <h2>Research Assistant, Qatar University, Doha, Qatar (November 2019 – March 2021)</h2>
 
     <h3>NPRP Project Title: Intrusion Detection System (IDS) for Industrial Control Systems</h3>
     <p>The project was funded under the Qatar National Priorities Research Program (NPRP) from the Qatar Foundation.</p>
