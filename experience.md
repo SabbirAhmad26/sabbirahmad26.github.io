@@ -43,7 +43,7 @@
     <p><u><i>Embedded and PC-Based Software Design (Languages Used: C++, Labview):</i></u></p>
     <ul>
         <li>Created bare-metal firmware for wireless sensor nodes equipped with ATMEL microcontrollers in ATMEL STUDIO using C++.</li>
-        <li>Designed Labview software for automatic lab-based wireless calibration of sensor nodes against temperature, humidity, sensitivity drift, and cross-sensitivity; key components of the software included a wireless communication stack, CSV file handler, and optimal data fitting algorithm using the least squared error (LSE) algorithm.</li>
+        <li>Designed Labview software for automatic lab-based wireless calibration of sensor nodes against temperature, humidity, sensitivity drift, and cross-sensitivity.</li>
     </ul>
 
     <h2>Graduate Development Engineer, EDWARDS, England, UK (August 2014 – August 2015)</h2>
