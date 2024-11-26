@@ -159,7 +159,7 @@ title: "Publications"
         <td width="67%" valign="top">
             <b>Merging Control in Mixed Traffic with Safety Guarantees: A Safe Sequencing Policy with Optimal Motion Control</b>
             <br/> Ehsan Sabouni, H.M. Sabbir Ahmad, Christos G. Cassandras, Wenchao Li
-            <br/>2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), pp. 4260-4265, September 2023
+            <br/>IEEE ITSC 2023
             <br/>
             <!-- Links to Paper, Code, etc. -->
             <div class="publication-links">
@@ -198,7 +198,7 @@ title: "Publications"
             <!-- Publication Details -->
             <td width="67%" valign="top">
                 <b>Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging</b>
-                <br/>Ehsan Sabouni, H M Sabbir Ahmad, Wei Xiao, Christos G. Cassandras, Wenchao Li<br/>2023 IEEE Conference on Control Technology and Applications (CCTA)<br/>
+                <br/>Ehsan Sabouni, H M Sabbir Ahmad, Wei Xiao, Christos G. Cassandras, Wenchao Li<br/>IEEE CCTA 2023<br/>
                 <!-- Links to Paper, Code, etc. -->
               <div class="publication-links">
                   <a href="https://ieeexplore.ieee.org/document/10253379">[Paper]</a> |
@@ -233,7 +233,7 @@ title: "Publications"
             <!-- Publication Details -->
             <td width="67%" valign="top">
               <b>Evaluations of cyber attacks on cooperative control of connected and autonomous vehicles at bottleneck points</b>
-              <br/> H M Sabbir Ahmad, Wei Xiao, Christos G Cassandras, Wenchao Li <br/>2023 IEEE Conference on Control Technology and Applications (CCTA)<br/> 
+              <br/> H M Sabbir Ahmad, Wei Xiao, Christos G Cassandras, Wenchao Li <br/>NDSS VehicleSec 2023<br/> 
               <!-- Links to Paper, Code, etc. -->
               <div class="publication-links">
                   <a href="https://par.nsf.gov/servlets/purl/10420904">[Paper]</a> |
