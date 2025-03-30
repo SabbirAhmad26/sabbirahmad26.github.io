@@ -52,3 +52,22 @@
     margin-left: var(--spacer);
   }
 }
+
+.social-icons {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  justify-content: center; /* or left/right */
+  gap: 10px;
+  margin: 0;
+}
+
+.social-icons li {
+  display: inline-block;
+  margin: 0;
+}
+
+.social-icon {
+  font-size: 1.2em; /* adjust icon size */
+}
+
