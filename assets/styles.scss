@@ -36,7 +36,7 @@
   @import "syntax-dark";
 }
 
-// ----- Swatches -----
+/* ----- Swatches ----- */
 .colors {
   display: grid;
   grid-template-columns: max-content 1fr;
@@ -47,11 +47,10 @@
     border-radius: var(--border-radius);
     box-shadow: inset 0 0 0 1px rgba(255,255,255,.15);
   }
-
   dd { margin-left: var(--spacer); }
 }
 
-// ----- Social -----
+/* ----- Social ----- */
 .social-icons {
   list-style: none;
   padding-left: 0;
@@ -81,64 +80,81 @@
 
 /* =========================================================
    WIDEN ONLY THE RIGHT/CONTENT SECTION (keep sidebar as-is)
+   Accounts for sidebar padding so content doesn't slide under.
    ========================================================= */
 
-/* Tune these */
-:root {
-  --sidebar-w: 18rem;      /* actual left sidebar width */
+/* Tune these to your theme */
+:root{
+  --sidebar-w: 18rem;      /* width set on .sidebar */
+  --sidebar-pad: 2rem;     /* total horizontal padding (each side) */
   --right-gutter: 0.5rem;  /* small space on right edge */
 }
 
-/* Sidebar untouched */
-.sidebar { width: var(--sidebar-w) !important; }
+/* Sidebar footprint = width + padding.
+   Use border-box so width includes padding for consistency. */
+.sidebar{
+  box-sizing: border-box;
+  width: var(--sidebar-w) !important;
+  padding-left: var(--sidebar-pad);
+  padding-right: var(--sidebar-pad);
+}
 
-/* 1) Remove max-width on every wrapper Poole/Hyde uses */
+/* Uncap wrapper widths Poole/Hyde add */
 .wrap,
 .container,
 .content .container,
 .post,
 .page,
-.posts {
+.posts{
   max-width: 100% !important;
   width: 100% !important;
 }
 
-/* 2) Expand the content column itself */
+/* Compute total sidebar space and expand content accordingly */
 .sidebar + .content,
-.content {
+.content{
   box-sizing: border-box;
   max-width: none !important;
-  width: calc(100vw - var(--sidebar-w) - var(--right-gutter)) !important;
-  margin-left: var(--sidebar-w) !important;          /* start after sidebar */
-  margin-right: var(--right-gutter) !important;      /* small right gutter */
-  padding-right: var(--right-gutter) !important;     /* keep text off edge */
+
+  /* total sidebar footprint (width + left padding);
+     because we used border-box above, this equals visible width */
+  --sidebar-total: calc(var(--sidebar-w) + var(--sidebar-pad));
+
+  margin-left: var(--sidebar-total) !important;         /* start after sidebar */
+  margin-right: var(--right-gutter) !important;         /* small right gutter */
+  padding-right: var(--right-gutter) !important;        /* keep text off edge */
+  width: calc(100vw - var(--sidebar-total) - var(--right-gutter)) !important;
 }
 
-/* 3) Defeat breakpoint caps re-applied by the theme */
-@media (min-width: 48em) {
+/* Kill breakpoint max-width caps the theme may re-apply */
+@media (min-width: 48em){
   .sidebar + .content, .content { max-width: none !important; }
 }
-@media (min-width: 64em) {
+@media (min-width: 64em){
   .sidebar + .content, .content { max-width: none !important; }
 }
 
-/* 4) Ensure inner blocks actually use the full width */
+/* Ensure inner blocks use full available width */
 .content .post,
 .content .page,
 .content .posts,
 .content .wrap,
 .content .container,
 .content .scroll,
-.content ul {
+.content ul{
   max-width: 100% !important;
   width: 100% !important;
 }
 
-/* 5) Mobile: stack; avoid overflow */
-@media (max-width: 768px) {
-  :root { --sidebar-w: 0; }
-  .sidebar { width: 100% !important; }
-  .sidebar + .content, .content {
+/* Mobile: stack; avoid overflow */
+@media (max-width: 768px){
+  :root{ --sidebar-w: 0; --sidebar-pad: 0; }
+  .sidebar{
+    width: 100% !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .sidebar + .content, .content{
     width: 100% !important;
     margin-left: 0 !important;
     margin-right: 1rem !important;
@@ -146,5 +162,5 @@
   }
 }
 
-/* 6) Safety: no accidental horizontal scrollbars */
+/* Safety: avoid horizontal scrollbar from rounding */
 html, body { overflow-x: hidden; }
