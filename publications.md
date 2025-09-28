@@ -9,8 +9,8 @@ title: "Publications"
                     <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='images/metadrive.gif'>
-                    <img width='200' src='images/metadrive.gif' height='120' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='/images/metadrive.gif'>
+                    <img width='200' src='/images/metadrive.gif' height='120' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
@@ -44,8 +44,8 @@ title: "Publications"
          <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
-                <a imageanchor='1' href='images/LTL_Generalization.png'>
-                    <img width='200' src='images/LTL_Generalization.png' height='120' border='0' style='border-radius: 5px'/>
+                <a imageanchor='1' href='/images/LTL_Generalization.png'>
+                    <img width='200' src='/images/LTL_Generalization.png' height='120' border='0' style='border-radius: 5px'/>
                 </a>
             </td>
             <!-- Publication Details -->
