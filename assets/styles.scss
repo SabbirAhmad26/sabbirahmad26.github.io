@@ -71,3 +71,44 @@
   font-size: 1.2em; /* adjust icon size */
 }
 
+/* ===========================
+   Custom Scrollable Container
+   =========================== */
+.scroll {
+  max-height: 300px;       /* adjust height as needed */
+  overflow-y: auto;        /* show vertical scrollbar when needed */
+  padding-right: 10px;     /* spacing so text doesn’t overlap scrollbar */
+
+  /* Smooth scrolling for better feel */
+  scroll-behavior: smooth;
+}
+
+/* ===========================
+   Custom Scrollbar Styling
+   (Webkit browsers: Chrome, Edge, Safari)
+   =========================== */
+.scroll::-webkit-scrollbar {
+  width: 8px;              /* scrollbar width */
+}
+
+.scroll::-webkit-scrollbar-track {
+  background: #f1f1f1;     /* light background */
+  border-radius: 10px;
+}
+
+.scroll::-webkit-scrollbar-thumb {
+  background: #888;        /* scrollbar color */
+  border-radius: 10px;
+}
+
+.scroll::-webkit-scrollbar-thumb:hover {
+  background: #555;        /* darker on hover */
+}
+
+/* ===========================
+   Firefox scrollbar styling
+   =========================== */
+.scroll {
+  scrollbar-width: thin;           /* "auto" or "thin" */
+  scrollbar-color: #888 #f1f1f1;   /* thumb color + track color */
+}
