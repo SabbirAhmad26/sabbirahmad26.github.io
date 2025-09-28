@@ -105,13 +105,45 @@
 }
 
 /* ===========================
-   Full-width Container Override
+   Full-width Overrides
    =========================== */
+
+/* Sidebar width */
+:root { --sidebar-w: 18rem; }  /* adjust if your sidebar is wider */
+
+/* Fix sidebar */
+.sidebar {
+  width: var(--sidebar-w) !important;
+}
+
+/* Expand main content fully */
+.content {
+  max-width: none !important;
+  width: auto !important;
+  margin-left: var(--sidebar-w) !important; /* push aside the sidebar */
+  margin-right: 2rem !important;            /* small right gutter */
+  padding-right: 2rem;                      /* spacing for readability */
+}
+
+/* Remove width limits on inner wrappers */
+.post,
+.page,
+.posts,
+.wrap,
 .container,
-.container.is-fluid {
-  max-width: 100% !important;  /* full screen width */
+.post .container,
+.page .container {
+  max-width: 100% !important;
   width: 100% !important;
-  margin: 0;
-  padding-left: 2rem;   /* small gutter on left */
-  padding-right: 2rem;  /* small gutter on right */
+}
+
+/* Mobile: stack sidebar on top */
+@media (max-width: 768px) {
+  :root { --sidebar-w: 0; }
+  .sidebar { width: 100% !important; }
+  .content {
+    margin-left: 0 !important;
+    margin-right: 1rem !important;
+    padding-right: 1rem;
+  }
 }
