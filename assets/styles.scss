@@ -78,72 +78,37 @@
   max-height: 300px;       /* adjust height as needed */
   overflow-y: auto;        /* show vertical scrollbar when needed */
   padding-right: 10px;     /* spacing so text doesn’t overlap scrollbar */
-  scroll-behavior: smooth; /* smooth scrolling */
+
+  /* Smooth scrolling for better feel */
+  scroll-behavior: smooth;
 }
 
 /* ===========================
    Custom Scrollbar Styling
+   (Webkit browsers: Chrome, Edge, Safari)
    =========================== */
 .scroll::-webkit-scrollbar {
-  width: 8px;
+  width: 8px;              /* scrollbar width */
 }
+
 .scroll::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #f1f1f1;     /* light background */
   border-radius: 10px;
 }
+
 .scroll::-webkit-scrollbar-thumb {
-  background: #888;
+  background: #888;        /* scrollbar color */
   border-radius: 10px;
 }
+
 .scroll::-webkit-scrollbar-thumb:hover {
-  background: #555;
-}
-/* Firefox scrollbar */
-.scroll {
-  scrollbar-width: thin;
-  scrollbar-color: #888 #f1f1f1;
+  background: #555;        /* darker on hover */
 }
 
 /* ===========================
-   Full-width Overrides
+   Firefox scrollbar styling
    =========================== */
-
-/* Sidebar width */
-:root { --sidebar-w: 18rem; }  /* adjust if your sidebar is wider */
-
-/* Fix sidebar */
-.sidebar {
-  width: var(--sidebar-w) !important;
-}
-
-/* Expand main content fully */
-.content {
-  max-width: none !important;
-  width: auto !important;
-  margin-left: var(--sidebar-w) !important; /* push aside the sidebar */
-  margin-right: 2rem !important;            /* small right gutter */
-  padding-right: 2rem;                      /* spacing for readability */
-}
-
-/* Remove width limits on inner wrappers */
-.post,
-.page,
-.posts,
-.wrap,
-.container,
-.post .container,
-.page .container {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
-/* Mobile: stack sidebar on top */
-@media (max-width: 768px) {
-  :root { --sidebar-w: 0; }
-  .sidebar { width: 100% !important; }
-  .content {
-    margin-left: 0 !important;
-    margin-right: 1rem !important;
-    padding-right: 1rem;
-  }
+.scroll {
+  scrollbar-width: thin;           /* "auto" or "thin" */
+  scrollbar-color: #888 #f1f1f1;   /* thumb color + track color */
 }
