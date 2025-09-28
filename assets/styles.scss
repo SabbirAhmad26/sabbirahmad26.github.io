@@ -146,3 +146,58 @@
     padding-right: 1rem;
   }
 }
+
+/* ===== Widen ONLY the right/content section ===== */
+
+/* your actual sidebar width */
+:root { --sidebar-w: 18rem; }   /* change if your sidebar is different */
+:root { --right-gutter: 0.75rem; }  /* small space on the right edge */
+
+/* keep sidebar as-is */
+.sidebar { width: var(--sidebar-w) !important; }
+
+/* many Poole/Hyde themes cap these; remove the caps */
+.wrap,
+.container,
+.post,
+.page,
+.posts,
+.content .container {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* expand the content area; do NOT touch the left/side bar */
+.content {
+  box-sizing: border-box;
+  max-width: none !important;
+  /* viewport minus sidebar minus small right gutter */
+  width: calc(100vw - var(--sidebar-w) - var(--right-gutter)) !important;
+
+  /* keep it starting after the sidebar */
+  margin-left: var(--sidebar-w) !important;
+
+  /* reduce the right margin so it looks wider */
+  margin-right: var(--right-gutter) !important;
+  padding-right: var(--right-gutter); /* optional, keeps text off the edge */
+}
+
+/* make lists/scroll boxes inside content use the available width */
+.content .scroll,
+.content ul,
+.content .container {
+  width: 100%;
+}
+
+/* mobile: stack and avoid overflow */
+@media (max-width: 768px) {
+  :root { --sidebar-w: 0; }
+  .sidebar { width: 100% !important; }
+  .content {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 1rem !important;
+    padding-right: 1rem;
+  }
+}
+
