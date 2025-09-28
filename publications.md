@@ -17,7 +17,6 @@ title: "Publications"
             <td width="67%" valign="top">
                     <b>Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems</b>
                     <br/>H M Sabbir Ahmad, Ehsan Sabouni, Alex Wasilkoff, Param Budhraja, Zijian Guo, Songyuan Zhang, Chuchu Fan, Christos Cassandras, Wenchao Li<br/>NeurIPS 2025 (to appear)<br/>
-                </p>
                 <!-- Links to Paper, Code, etc. -->
                 <div class="publication-links">
                     <a href="https://arxiv.org/pdf/2507.14850">[Paper]</a> |
@@ -52,7 +51,6 @@ title: "Publications"
             <td width="67%" valign="top">
                     <b>One Subgoal at a Time: Zero-Shot Generalization to Arbitrary Linear Temporal Logic Requirements in Multi-Task Reinforcement Learning</b>
                     <br/>Zijian Guo, Iker Isik, H M Sabbir Ahmad, Wenchao Li<br/>NeurIPS 2025 (to appear)<br/>
-                </p>
                 <!-- Links to Paper, Code, etc. -->
                 <div class="publication-links">
                     <a href="https://arxiv.org/pdf/2508.01561">[Paper]</a> |
