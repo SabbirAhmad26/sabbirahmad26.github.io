@@ -51,7 +51,7 @@ title: "Publications"
             <!-- Publication Details -->
             <td width="67%" valign="top">
                 <b>Reinforcement Learning-based Receding Horizon Control using Adaptive Control Barrier Functions for Safety-Critical Systems</b>
-                <br/>Ehsan Sabouni, H M Sabbir Ahmad, Vittorio Giammarino, Christos G Cassandras, Ioannis Ch Paschalidis, Wenchao Li<br/>IEEE CDC 2024 (to appear)<br/>
+                <br/>Ehsan Sabouni, H M Sabbir Ahmad, Vittorio Giammarino, Christos G Cassandras, Ioannis Ch Paschalidis, Wenchao Li<br/>IEEE CDC 2024 <br/>
                 <!-- Links to Paper, Code, etc. -->
                 <div class="publication-links">
                     <a href="https://arxiv.org/abs/2403.17338">[Paper]</a> |
