@@ -6,6 +6,76 @@ title: "Publications"
 <section>  
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="15">
         <!-- Publication 1 -->
+                    <tr>
+            <!-- Publication Image -->
+            <td style='width:300px;height:150px'>
+                <a imageanchor='1' href='images/metadrive.gif'>
+                    <img width='200' src='images/metadrive.gif' height='120' border='0' style='border-radius: 5px'/>
+                </a>
+            </td>
+            <!-- Publication Details -->
+            <td width="67%" valign="top">
+                    <b>Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems</b>
+                    <br/>H M Sabbir Ahmad, Ehsan Sabouni, Alex Wasilkoff, Param Budhraja, Zijian Guo, Songyuan Zhang, Chuchu Fan, Christos Cassandras, Wenchao Li<br/>NeurIPS 2025 (to appear)<br/>
+                </p>
+                <!-- Links to Paper, Code, etc. -->
+                <div class="publication-links">
+                    <a href="https://arxiv.org/pdf/2507.14850">[Paper]</a> |
+                    <a href="javascript:void(0);" onclick="toggleAbstract('abstract-1')">[Abstract]</a> |
+                    <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-1')">[BibTeX]</a> |
+                </div>
+                <!-- Hidden Abstract and BibTeX sections -->
+                <div id="abstract-1" style="display:none;">
+                    <p><i>Safe Hierarchical multi-agent reinforcement learning for safety critical autonomous systems.</i></p>
+                </div>
+                <pre id="bibtex-1" style="display:none;">
+                    @article{ahmad2025hierarchicalmultiagentreinforcementlearning,
+                            title={Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems}, 
+                            author={H. M. Sabbir Ahmad and Ehsan Sabouni and Alexander Wasilkoff and Param Budhraja and Zijian Guo and Songyuan Zhang and Chuchu Fan and Christos Cassandras and Wenchao Li},
+                            year={2025},
+                            eprint={2507.14850},
+                            archivePrefix={arXiv},
+                            primaryClass={cs.LG},
+                            url={https://arxiv.org/abs/2507.14850}, 
+                      }
+                </pre>
+            </td>
+        </tr>
+         <tr>
+            <!-- Publication Image -->
+            <td style='width:300px;height:150px'>
+                <a imageanchor='1' href='images/LTL_Generalization.png'>
+                    <img width='200' src='images/LTL_Generalization.png' height='120' border='0' style='border-radius: 5px'/>
+                </a>
+            </td>
+            <!-- Publication Details -->
+            <td width="67%" valign="top">
+                    <b>One Subgoal at a Time: Zero-Shot Generalization to Arbitrary Linear Temporal Logic Requirements in Multi-Task Reinforcement Learning</b>
+                    <br/>Zijian Guo, Iker Isik, H M Sabbir Ahmad, Wenchao Li<br/>NeurIPS 2025 (to appear)<br/>
+                </p>
+                <!-- Links to Paper, Code, etc. -->
+                <div class="publication-links">
+                    <a href="https://arxiv.org/pdf/2508.01561">[Paper]</a> |
+                    <a href="javascript:void(0);" onclick="toggleAbstract('abstract-1')">[Abstract]</a> |
+                    <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-1')">[BibTeX]</a> |
+                </div>
+                <!-- Hidden Abstract and BibTeX sections -->
+                <div id="abstract-1" style="display:none;">
+                    <p><i>Safe Zero shot LTL generalization in multi-task reinforcement learning.</i></p>
+                </div>
+                <pre id="bibtex-1" style="display:none;">
+                    @article{guo2025subgoaltimezeroshotgeneralization,
+                    title={One Subgoal at a Time: Zero-Shot Generalization to Arbitrary Linear Temporal Logic Requirements in Multi-Task Reinforcement Learning}, 
+                    author={Zijian Guo and İlker Işık and H. M. Sabbir Ahmad and Wenchao Li},
+                    year={2025},
+                    eprint={2508.01561},
+                    archivePrefix={arXiv},
+                    primaryClass={cs.AI},
+                    url={https://arxiv.org/abs/2508.01561}, 
+              }
+                </pre>
+            </td>
+        </tr>
         <tr>
             <!-- Publication Image -->
             <td style='width:300px;height:150px'>
