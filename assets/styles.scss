@@ -36,7 +36,7 @@
   @import "syntax-dark";
 }
 
-// ----- Swatches -----
+// Sass for creating the swatches
 .colors {
   display: grid;
   grid-template-columns: max-content 1fr;
@@ -48,113 +48,71 @@
     box-shadow: inset 0 0 0 1px rgba(255,255,255,.15);
   }
 
-  dd { margin-left: var(--spacer); }
+  dd {
+    margin-left: var(--spacer);
+  }
 }
 
-// ----- Social -----
 .social-icons {
   list-style: none;
   padding-left: 0;
   display: flex;
-  justify-content: center;
+  justify-content: center; /* or left/right */
   gap: 10px;
   margin: 0;
 }
-.social-icons li { display: inline-block; margin: 0; }
-.social-icon { font-size: 1.2em; }
+
+.social-icons li {
+  display: inline-block;
+  margin: 0;
+}
+
+.social-icon {
+  font-size: 1.2em; /* adjust icon size */
+}
 
 /* ===========================
-   Scrollable boxes
+   Custom Scrollable Container
    =========================== */
 .scroll {
-  max-height: 300px;
-  overflow-y: auto;
-  padding-right: 10px;
+  max-height: 300px;       /* adjust height as needed */
+  overflow-y: auto;        /* show vertical scrollbar when needed */
+  padding-right: 10px;     /* spacing so text doesn’t overlap scrollbar */
+
+  /* Smooth scrolling for better feel */
   scroll-behavior: smooth;
 }
-/* Scrollbar styling */
-.scroll::-webkit-scrollbar { width: 8px; }
-.scroll::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 10px; }
-.scroll::-webkit-scrollbar-thumb { background: #888; border-radius: 10px; }
-.scroll::-webkit-scrollbar-thumb:hover { background: #555; }
-.scroll { scrollbar-width: thin; scrollbar-color: #888 #f1f1f1; }
 
-/* =========================================================
-   FIX: WIDEN ONLY THE RIGHT/CONTENT SECTION (keep sidebar as-is)
-   ========================================================= */
-
-:root {
-  --sidebar-w: 18rem;       /* actual sidebar content width */
-  --sidebar-pad: 2rem;      /* padding applied inside sidebar (both sides) */
-  --right-gutter: 0.5rem;   /* small space on right edge */
+/* ===========================
+   Custom Scrollbar Styling
+   (Webkit browsers: Chrome, Edge, Safari)
+   =========================== */
+.scroll::-webkit-scrollbar {
+  width: 8px;              /* scrollbar width */
 }
 
-/* Sidebar itself */
-.sidebar {
-  box-sizing: border-box;
-  width: var(--sidebar-w) !important;
-  padding-left: var(--sidebar-pad);
-  padding-right: var(--sidebar-pad);
+.scroll::-webkit-scrollbar-track {
+  background: #f1f1f1;     /* light background */
+  border-radius: 10px;
 }
 
-/* Remove theme’s width caps */
-.wrap,
-.container,
-.content .container,
-.post,
-.page,
-.posts {
-  max-width: 100% !important;
-  width: 100% !important;
+.scroll::-webkit-scrollbar-thumb {
+  background: #888;        /* scrollbar color */
+  border-radius: 10px;
 }
 
-/* Content column */
-.sidebar + .content,
-.content {
-  box-sizing: border-box;
-  max-width: none !important;
+.scroll::-webkit-scrollbar-thumb:hover {
+  background: #555;        /* darker on hover */
 
-  /* total sidebar footprint = width + both paddings */
-  --sidebar-total: calc(var(--sidebar-w) + (2 * var(--sidebar-pad)));
 
-  margin-left: var(--sidebar-total) !important;           /* clear sidebar fully */
-  margin-right: var(--right-gutter) !important;           /* small gutter */
-  padding-right: var(--right-gutter) !important;          /* keep text off edge */
 
-  width: calc(100vw - var(--sidebar-total) - var(--right-gutter)) !important;
+
+
 }
 
-/* Defeat breakpoint caps */
-@media (min-width: 48em) {
-  .sidebar + .content, .content { max-width: none !important; }
-}
-@media (min-width: 64em) {
-  .sidebar + .content, .content { max-width: none !important; }
-}
-
-/* Inner blocks should expand */
-.content .post,
-.content .page,
-.content .posts,
-.content .wrap,
-.content .container,
-.content .scroll,
-.content ul {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
-/* Mobile: stack */
-@media (max-width: 768px) {
-  :root { --sidebar-w: 0; --sidebar-pad: 0; }
-  .sidebar { width: 100% !important; padding-left: 1rem; padding-right: 1rem; }
-  .sidebar + .content, .content {
-    width: 100% !important;
-    margin-left: 0 !important;
-    margin-right: 1rem !important;
-    padding-right: 1rem !important;
-  }
-}
-
-/* Safety */
-html, body { overflow-x: hidden; }
+/* ===========================
+   Firefox scrollbar styling
+   =========================== */
+.scroll {
+  scrollbar-width: thin;           /* "auto" or "thin" */
+  scrollbar-color: #888 #f1f1f1;   /* thumb color + track color */
