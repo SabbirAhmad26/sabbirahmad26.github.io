@@ -36,7 +36,7 @@
   @import "syntax-dark";
 }
 
-// Sass for creating the swatches
+// ----- Swatches -----
 .colors {
   display: grid;
   grid-template-columns: max-content 1fr;
@@ -48,113 +48,97 @@
     box-shadow: inset 0 0 0 1px rgba(255,255,255,.15);
   }
 
-  dd {
-    margin-left: var(--spacer);
-  }
+  dd { margin-left: var(--spacer); }
 }
 
+// ----- Social -----
 .social-icons {
   list-style: none;
   padding-left: 0;
   display: flex;
-  justify-content: center; /* or left/right */
+  justify-content: center;
   gap: 10px;
   margin: 0;
 }
-
-.social-icons li {
-  display: inline-block;
-  margin: 0;
-}
-
-.social-icon {
-  font-size: 1.2em; /* adjust icon size */
-}
+.social-icons li { display: inline-block; margin: 0; }
+.social-icon { font-size: 1.2em; }
 
 /* ===========================
-   Custom Scrollable Container
+   Scrollable boxes
    =========================== */
 .scroll {
-  max-height: 300px;       /* adjust height as needed */
-  overflow-y: auto;        /* show vertical scrollbar when needed */
-  padding-right: 10px;     /* spacing so text doesn’t overlap scrollbar */
-  scroll-behavior: smooth; /* smooth scrolling */
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 10px;
+  scroll-behavior: smooth;
 }
+/* Scrollbar styling */
+.scroll::-webkit-scrollbar { width: 8px; }
+.scroll::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 10px; }
+.scroll::-webkit-scrollbar-thumb { background: #888; border-radius: 10px; }
+.scroll::-webkit-scrollbar-thumb:hover { background: #555; }
+.scroll { scrollbar-width: thin; scrollbar-color: #888 #f1f1f1; }
 
-/* ===========================
-   Custom Scrollbar Styling
-   =========================== */
-.scroll::-webkit-scrollbar {
-  width: 8px;
-}
-.scroll::-webkit-scrollbar-track {
-  background: #f1f1f1;
-  border-radius: 10px;
-}
-.scroll::-webkit-scrollbar-thumb {
-  background: #888;
-  border-radius: 10px;
-}
-.scroll::-webkit-scrollbar-thumb:hover {
-  background: #555;
-}
-/* Firefox scrollbar */
-.scroll {
-  scrollbar-width: thin;
-  scrollbar-color: #888 #f1f1f1;
-}
+/* =========================================================
+   WIDEN ONLY THE RIGHT/CONTENT SECTION (keep sidebar as-is)
+   ========================================================= */
 
-/* ===========================
-   Widen Right Content Section
-   =========================== */
-
-/* Tune sidebar + gutter */
+/* Tune these */
 :root {
-  --sidebar-w: 18rem;     /* actual sidebar width */
-  --right-gutter: 0.5rem; /* small space on right edge */
+  --sidebar-w: 18rem;      /* actual left sidebar width */
+  --right-gutter: 0.5rem;  /* small space on right edge */
 }
 
-/* Keep sidebar fixed */
+/* Sidebar untouched */
 .sidebar { width: var(--sidebar-w) !important; }
 
-/* Remove caps from theme wrappers */
+/* 1) Remove max-width on every wrapper Poole/Hyde uses */
 .wrap,
 .container,
+.content .container,
 .post,
 .page,
-.posts,
-.content .container {
+.posts {
   max-width: 100% !important;
   width: 100% !important;
 }
 
-/* Expand content area */
+/* 2) Expand the content column itself */
 .sidebar + .content,
 .content {
   box-sizing: border-box;
   max-width: none !important;
   width: calc(100vw - var(--sidebar-w) - var(--right-gutter)) !important;
-  margin-left: var(--sidebar-w) !important;        /* start after sidebar */
-  margin-right: var(--right-gutter) !important;    /* small right gutter */
-  padding-right: var(--right-gutter) !important;   /* spacing for readability */
+  margin-left: var(--sidebar-w) !important;          /* start after sidebar */
+  margin-right: var(--right-gutter) !important;      /* small right gutter */
+  padding-right: var(--right-gutter) !important;     /* keep text off edge */
 }
 
-/* Override Poole/Hyde breakpoint caps */
+/* 3) Defeat breakpoint caps re-applied by the theme */
 @media (min-width: 48em) {
-  .sidebar + .content,
-  .content { max-width: none !important; }
+  .sidebar + .content, .content { max-width: none !important; }
 }
 @media (min-width: 64em) {
-  .sidebar + .content,
-  .content { max-width: none !important; }
+  .sidebar + .content, .content { max-width: none !important; }
 }
 
-/* Mobile stack */
+/* 4) Ensure inner blocks actually use the full width */
+.content .post,
+.content .page,
+.content .posts,
+.content .wrap,
+.content .container,
+.content .scroll,
+.content ul {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* 5) Mobile: stack; avoid overflow */
 @media (max-width: 768px) {
   :root { --sidebar-w: 0; }
   .sidebar { width: 100% !important; }
-  .sidebar + .content,
-  .content {
+  .sidebar + .content, .content {
     width: 100% !important;
     margin-left: 0 !important;
     margin-right: 1rem !important;
@@ -162,5 +146,5 @@
   }
 }
 
-/* Prevent unwanted horizontal scroll */
+/* 6) Safety: no accidental horizontal scrollbars */
 html, body { overflow-x: hidden; }
