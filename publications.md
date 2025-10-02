@@ -21,8 +21,6 @@ title: "Publications"
                 <div class="publication-links">
                     <a href="https://arxiv.org/pdf/2507.14850">[Paper]</a> |
                     <a href="javascript:void(0);" onclick="toggleAbstract('abstract-1')">[Abstract]</a> |
-                    <a href="https://bu-depend-lab.github.io/GenZ-LTL/" target="_blank">[Website]</a> | 
-                    <a href="https://github.com/BU-DEPEND-Lab/GenZ-LTL" target="_blank">[Code]</a> |
                     <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-1')">[BibTeX]</a>
                 </div>
                 <!-- Hidden Abstract and BibTeX sections -->
@@ -57,6 +55,8 @@ title: "Publications"
                 <div class="publication-links">
                     <a href="https://arxiv.org/pdf/2508.01561">[Paper]</a> |
                     <a href="javascript:void(0);" onclick="toggleAbstract('abstract-1')">[Abstract]</a> |
+                    <a href="https://bu-depend-lab.github.io/GenZ-LTL/" target="_blank">[Website]</a> | 
+                    <a href="https://github.com/BU-DEPEND-Lab/GenZ-LTL" target="_blank">[Code]</a> |
                     <a href="javascript:void(0);" onclick="toggleBibtex('bibtex-1')">[BibTeX]</a> |
                 </div>
                 <!-- Hidden Abstract and BibTeX sections -->
